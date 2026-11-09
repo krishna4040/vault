@@ -1,0 +1,79 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "file": "Samples/media/sample notes/annotation/Bluejay.md",
+      "height": 744,
+      "id": "e43e2ed7b9eb3fab",
+      "type": "file",
+      "width": 680,
+      "x": -20,
+      "y": -580
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "c4d447ea3188909b",
+      "text": "---\ncssclasses: cc-card-transparent, cc-border-dashed\n---\n\nA Markdown H1 header",
+      "type": "text",
+      "width": 560,
+      "x": -245,
+      "y": -569
+    },
+    {
+      "color": "4",
+      "height": 142,
+      "id": "f4b27eaab095cf3b",
+      "text": "---\ncssclasses: cc-card-transparent, cc-border-dashed\n---\n\nEmbedded image\nSized to not be large",
+      "type": "text",
+      "width": 363,
+      "x": -240,
+      "y": -371
+    },
+    {
+      "color": "3",
+      "height": 100,
+      "id": "6727ed26b4bab8ab",
+      "text": "---\ncssclasses: cc-card-transparent, cc-border-none\n---\n\nThe following file is a markdown file in this vault. It is embedded in the canvas. Using cards with decorations, we can annotate aspects of this document, just as we might use other programs for annotation.",
+      "type": "text",
+      "width": 843,
+      "x": -207,
+      "y": -696
+    },
+    {
+      "color": "1",
+      "height": 138,
+      "id": "b021cf4b2bd71340",
+      "text": "---\ncssclasses: cc-card-transparent, cc-border-dotted\n---\n\nBolded text",
+      "type": "text",
+      "width": 400,
+      "x": 260,
+      "y": -277
+    },
+    {
+      "height": 64,
+      "id": "28aea9bd3c84e020",
+      "text": "---\ncssclasses: cc-border-bottom, cc-card-transparent, cc-card-center\n---\n\n# Annotating Markup in a Canvas",
+      "type": "text",
+      "width": 1000,
+      "x": -285,
+      "y": -760
+    },
+    {
+      "color": "2",
+      "height": 240,
+      "id": "63f8d5da6b5da612",
+      "text": "---\ncssclasses: cc-card-transparent, cc-border-dashed\n---\n\nCompiled footnotes\nat bottom of document",
+      "type": "text",
+      "width": 602,
+      "x": -242,
+      "y": -60
+    }
+  ]
+}

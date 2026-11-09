@@ -1,0 +1,86 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "6",
+      "height": 390,
+      "id": "10bfa79575c83ba8",
+      "text": "---\ncssclasses: cc-shape-circle, cc-card-opaque, cc-border-none \n---",
+      "type": "text",
+      "width": 380,
+      "x": -314,
+      "y": -262
+    },
+    {
+      "color": "5",
+      "height": 390,
+      "id": "c5beeb4218503426",
+      "text": "---\ncssclasses: cc-shape-circle, cc-card-opaque, cc-border-none \n---",
+      "type": "text",
+      "width": 380,
+      "x": -114,
+      "y": -262
+    },
+    {
+      "color": "4",
+      "height": 390,
+      "id": "46f663a4b44c4cb7",
+      "text": "---\ncssclasses: cc-shape-circle, cc-card-opaque, cc-border-none \n---",
+      "type": "text",
+      "width": 380,
+      "x": -214,
+      "y": -127
+    },
+    {
+      "height": 140,
+      "id": "3d16a10e6119bba6",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Components of Productivity Venn Diagram\n",
+      "type": "text",
+      "width": 720,
+      "x": -334,
+      "y": -380
+    },
+    {
+      "height": 84,
+      "id": "9bdfaa4fc1d3df21",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**ATTENTION**",
+      "type": "text",
+      "width": 260,
+      "x": -94,
+      "y": 140
+    },
+    {
+      "height": 84,
+      "id": "87c364965cc7e333",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**ENERGY**",
+      "type": "text",
+      "width": 260,
+      "x": 100,
+      "y": -171
+    },
+    {
+      "height": 84,
+      "id": "5a0cbf9f7244d7bf",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**TIME**",
+      "type": "text",
+      "width": 260,
+      "x": -254,
+      "y": -170
+    },
+    {
+      "height": 80,
+      "id": "042b7163d0a50972",
+      "text": "---\ncssclasses: cc-card-center, cc-border-none, cc-card-transparent\n---\n\n# PRODUCTIVITY",
+      "type": "text",
+      "width": 580,
+      "x": -314,
+      "y": -69
+    }
+  ]
+}

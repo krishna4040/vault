@@ -1,0 +1,60 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "3",
+      "height": 260,
+      "id": "02c35c4f39ef8b38",
+      "text": ">[!cc-header-noborder] Header\n\n\n**callouts:**\n```\n>[!cc-header-noborder]\n>[!cc-footer-noborder]\n```\n\n\n>[!cc-footer-noborder] footer",
+      "type": "text",
+      "width": 360,
+      "x": -340,
+      "y": 320
+    },
+    {
+      "color": "3",
+      "height": 260,
+      "id": "b92b2c5fbd09a3d5",
+      "text": ">[!cc-header] Header\n\n\n**Callouts:**\n```\n>[!cc-header]\n>[!cc-footer]\n```\n\n\n>[!cc-footer] footer",
+      "type": "text",
+      "width": 360,
+      "x": -740,
+      "y": 320
+    },
+    {
+      "color": "3",
+      "height": 390,
+      "id": "e478e0da99207a49",
+      "text": "---\ncssclasses: cc-card-nocolor\n---\n\n>[!cc-header-noborder] Header\n\n**Callouts**\n```\n>[!cc-header-noborder]\n>[!cc-footer-noborder]\n```\n\n**cssclasses**\n- cc-card-nocolor\n\n>[!cc-footer-noborder] footer",
+      "type": "text",
+      "width": 360,
+      "x": -740,
+      "y": 630
+    },
+    {
+      "color": "3",
+      "height": 390,
+      "id": "cac2b357b22b167c",
+      "text": "---\ncssclasses: cc-card-nocolor, cc-border-none\n---\n\n>[!cc-header-noborder] Header\n\n**Callouts**\n```\n>[!cc-header-noborder]\n>[!cc-footer-noborder]\n```\n\n**cssclasses**\n- cc-card-nocolor\n- cc-border-none\n\n>[!cc-footer-noborder] footer",
+      "type": "text",
+      "width": 360,
+      "x": -340,
+      "y": 630
+    },
+    {
+      "height": 500,
+      "id": "1cc44c23128476a8",
+      "text": "![[02 Stencil Index]]\n\n",
+      "type": "text",
+      "width": 340,
+      "x": -760,
+      "y": 1040
+    }
+  ]
+}

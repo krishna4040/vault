@@ -1,0 +1,452 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "file": "Stencils/media/Stickers/left-cc-image.svg",
+      "height": 100,
+      "id": "503b047799ad4ab5",
+      "type": "file",
+      "width": 145,
+      "x": 480,
+      "y": -600
+    },
+    {
+      "file": "Stencils/media/Stickers/right-cc-image.svg",
+      "height": 101,
+      "id": "577e67be3576e36f",
+      "type": "file",
+      "width": 145,
+      "x": 678,
+      "y": -600
+    },
+    {
+      "file": "Stencils/media/Stickers/finger-cc-image.svg",
+      "height": 97,
+      "id": "9f149b06eff256db",
+      "type": "file",
+      "width": 145,
+      "x": 876,
+      "y": -600
+    },
+    {
+      "file": "Stencils/media/Stickers/index-finger-cc-image.svg",
+      "height": 144,
+      "id": "3294e30ca217c917",
+      "type": "file",
+      "width": 102,
+      "x": 1074,
+      "y": -600
+    },
+    {
+      "file": "Stencils/media/Stickers/smiley-cc-image.svg",
+      "height": 145,
+      "id": "a9aa620305e83948",
+      "type": "file",
+      "width": 145,
+      "x": 1230,
+      "y": -600
+    },
+    {
+      "file": "Stencils/media/Stickers/calendar-cc-image.svg",
+      "height": 106,
+      "id": "4f4cf9b259ef40f5",
+      "type": "file",
+      "width": 145,
+      "x": 1427,
+      "y": -600
+    },
+    {
+      "file": "Stencils/media/Stickers/speech2-cc-image.svg",
+      "height": 145,
+      "id": "d99c32d841201de8",
+      "type": "file",
+      "width": 145,
+      "x": 480,
+      "y": -455
+    },
+    {
+      "file": "Stencils/media/Stickers/speech-cc-image.svg",
+      "height": 145,
+      "id": "5188978cd9fba26e",
+      "type": "file",
+      "width": 145,
+      "x": 678,
+      "y": -455
+    },
+    {
+      "file": "Stencils/media/Stickers/dialog-cc-image.svg",
+      "height": 145,
+      "id": "4ee50dd68a9f43cb",
+      "type": "file",
+      "width": 145,
+      "x": 893,
+      "y": -455
+    },
+    {
+      "file": "Stencils/media/Stickers/exclamation-mark-cc-image.svg",
+      "height": 145,
+      "id": "6a692349965d2e17",
+      "type": "file",
+      "width": 145,
+      "x": 1055,
+      "y": -455
+    },
+    {
+      "file": "Stencils/media/Stickers/list-cc-image.svg",
+      "height": 145,
+      "id": "b4d31a7689253dbd",
+      "type": "file",
+      "width": 145,
+      "x": 1237,
+      "y": -455
+    },
+    {
+      "file": "Stencils/media/Stickers/tick-cc-image.svg",
+      "height": 144,
+      "id": "1d26b60c77284c23",
+      "type": "file",
+      "width": 102,
+      "x": 506,
+      "y": -280
+    },
+    {
+      "file": "Stencils/media/Stickers/target-cc-image.svg",
+      "height": 121,
+      "id": "3a8ba433825eb631",
+      "type": "file",
+      "width": 182,
+      "x": 661,
+      "y": -256
+    },
+    {
+      "file": "Stencils/media/Stickers/lightbulb-cc-image.svg",
+      "height": 145,
+      "id": "b28a3e45f54a55ca",
+      "type": "file",
+      "width": 137,
+      "x": 480,
+      "y": -80
+    },
+    {
+      "file": "Stencils/media/Stickers/document-cc-image.svg",
+      "height": 145,
+      "id": "795a6487cd7914ed",
+      "type": "file",
+      "width": 111,
+      "x": 711,
+      "y": -80
+    },
+    {
+      "file": "Stencils/media/Stickers/manuscript-cc-image.svg",
+      "height": 145,
+      "id": "8d0240e333e48fd8",
+      "type": "file",
+      "width": 121,
+      "x": 905,
+      "y": -80
+    },
+    {
+      "file": "Stencils/media/Stickers/news-cc-image.svg",
+      "height": 145,
+      "id": "d92170fbece44937",
+      "type": "file",
+      "width": 145,
+      "x": 1074,
+      "y": -80
+    },
+    {
+      "file": "Stencils/media/Stickers/computer2-cc-image.svg",
+      "height": 103,
+      "id": "5d53efa82574f305",
+      "type": "file",
+      "width": 145,
+      "x": 480,
+      "y": 160
+    },
+    {
+      "file": "Stencils/media/Stickers/smartphone-cc-image.svg",
+      "height": 145,
+      "id": "2c3d261a39971ce7",
+      "type": "file",
+      "width": 83,
+      "x": 924,
+      "y": 155
+    },
+    {
+      "file": "Stencils/media/Stickers/printer-cc-image.svg",
+      "height": 145,
+      "id": "9cb0682a3fcb8fce",
+      "type": "file",
+      "width": 145,
+      "x": 1085,
+      "y": 155
+    },
+    {
+      "file": "Stencils/media/Stickers/computer-cc-image.svg",
+      "height": 50,
+      "id": "dfe21c0904cf48c3",
+      "type": "file",
+      "width": 144,
+      "x": 1251,
+      "y": 202
+    },
+    {
+      "file": "Stencils/media/Stickers/instagram-cc-image.svg",
+      "height": 92,
+      "id": "3be1e0d4a32a0711",
+      "type": "file",
+      "width": 92,
+      "x": 916,
+      "y": 360
+    },
+    {
+      "file": "Stencils/media/Stickers/youtube-cc-image.svg",
+      "height": 72,
+      "id": "e779d028db1cd048",
+      "type": "file",
+      "width": 102,
+      "x": 498,
+      "y": 365
+    },
+    {
+      "file": "Stencils/media/Stickers/facebook-cc-image.svg",
+      "height": 91,
+      "id": "f87e5f489fac199a",
+      "type": "file",
+      "width": 95,
+      "x": 711,
+      "y": 365
+    },
+    {
+      "file": "Stencils/media/Stickers/tablet-cc-image.svg",
+      "height": 145,
+      "id": "7a5f92e3da3eb3c3",
+      "type": "file",
+      "width": 193,
+      "x": 671,
+      "y": 155
+    },
+    {
+      "file": "Stencils/media/Stickers/parts-cc-image.svg",
+      "height": 92,
+      "id": "08babe1eb075b061",
+      "type": "file",
+      "width": 92,
+      "x": 1112,
+      "y": 354
+    },
+    {
+      "file": "Stencils/media/Stickers/twitter-cc-image.svg",
+      "height": 75,
+      "id": "be8b127ea63a73f6",
+      "type": "file",
+      "width": 92,
+      "x": 1283,
+      "y": 364
+    },
+    {
+      "file": "Stencils/media/Stickers/car2-cc-image.svg",
+      "height": 51,
+      "id": "65d7f430acb66441",
+      "type": "file",
+      "width": 144,
+      "x": 1461,
+      "y": 365
+    },
+    {
+      "file": "Stencils/media/Stickers/stop-cc-image.svg",
+      "height": 145,
+      "id": "1873399b32377cbc",
+      "type": "file",
+      "width": 145,
+      "x": 1412,
+      "y": -256
+    },
+    {
+      "file": "Stencils/media/Stickers/post-it-cc-image.svg",
+      "height": 145,
+      "id": "dec7cb5aea0ed9ed",
+      "type": "file",
+      "width": 145,
+      "x": 1068,
+      "y": -256
+    },
+    {
+      "file": "Stencils/media/Stickers/upload-cc-image.svg",
+      "height": 145,
+      "id": "3b28f204e41940ee",
+      "type": "file",
+      "width": 145,
+      "x": 1230,
+      "y": -256
+    },
+    {
+      "file": "Stencils/media/Stickers/crosshair-cc-image.svg",
+      "height": 145,
+      "id": "a4ce931c2ae84ac8",
+      "type": "file",
+      "width": 145,
+      "x": 893,
+      "y": -256
+    },
+    {
+      "file": "Stencils/media/Stickers/maibox-cc-image.svg",
+      "height": 112,
+      "id": "27a15475c857e99f",
+      "type": "file",
+      "width": 145,
+      "x": 1251,
+      "y": -63
+    },
+    {
+      "file": "Stencils/media/Stickers/car-cc-image.svg",
+      "height": 89,
+      "id": "a25ceac6951bffe3",
+      "type": "file",
+      "width": 145,
+      "x": 1427,
+      "y": -51
+    },
+    {
+      "file": "Stencils/media/Stickers/wifi-cc-image.svg",
+      "height": 108,
+      "id": "3df650cd9dfbc7c2",
+      "type": "file",
+      "width": 100,
+      "x": 1472,
+      "y": 174
+    },
+    {
+      "height": 500,
+      "id": "fd445f67cb4592e3",
+      "text": "![[02 Stencil Index]]\n\n",
+      "type": "text",
+      "width": 340,
+      "x": 1680,
+      "y": -385
+    },
+    {
+      "file": "Stencils/media/Stickers/cloud-cc-image 1.svg",
+      "height": 122,
+      "id": "8d81bcc362c3564e",
+      "type": "file",
+      "width": 143,
+      "x": 689,
+      "y": 520
+    },
+    {
+      "file": "Stencils/media/Stickers/sun-cc-image.svg",
+      "height": 121,
+      "id": "2222014ff922253c",
+      "type": "file",
+      "width": 121,
+      "x": 489,
+      "y": 520
+    },
+    {
+      "file": "Stencils/media/Stickers/cloudy-cc-image.svg",
+      "height": 128,
+      "id": "9af0836e6f0d188f",
+      "type": "file",
+      "width": 154,
+      "x": 898,
+      "y": 513
+    },
+    {
+      "file": "Stencils/media/Stickers/gauge-cc-image.svg",
+      "height": 153,
+      "id": "76bde64952b2b53a",
+      "type": "file",
+      "width": 153,
+      "x": 656,
+      "y": 713
+    },
+    {
+      "file": "Stencils/media/Stickers/heart-cc-image.svg",
+      "height": 273,
+      "id": "0bbcc4352f461c9a",
+      "type": "file",
+      "width": 193,
+      "x": 1412,
+      "y": -497
+    },
+    {
+      "file": "Stencils/media/Stickers/compass2-cc-image.svg",
+      "height": 224,
+      "id": "08cdc20e2da4783b",
+      "type": "file",
+      "width": 158,
+      "x": 1433,
+      "y": 457
+    },
+    {
+      "file": "Stencils/media/Stickers/cloud-cc-image.svg",
+      "height": 93,
+      "id": "954f513e23313854",
+      "type": "file",
+      "width": 145,
+      "x": 1085,
+      "y": 523
+    },
+    {
+      "file": "Stencils/media/Stickers/compass-cc-image.svg",
+      "height": 156,
+      "id": "40bc2687e520dc7c",
+      "type": "file",
+      "width": 108,
+      "x": 1283,
+      "y": 485
+    },
+    {
+      "file": "Stencils/media/Stickers/thermometer-cc-image.svg",
+      "height": 153,
+      "id": "c01aae1d759ecdd8",
+      "type": "file",
+      "width": 50,
+      "x": 518,
+      "y": 699
+    },
+    {
+      "file": "Stencils/media/Stickers/magnifying-glass-cc-image.svg",
+      "height": 144,
+      "id": "898be6ed163116d3",
+      "type": "file",
+      "width": 152,
+      "x": 1275,
+      "y": 704
+    },
+    {
+      "file": "Stencils/media/Stickers/party-cc-image.svg",
+      "height": 186,
+      "id": "976b5699f4dd07bd",
+      "type": "file",
+      "width": 181,
+      "x": 1443,
+      "y": 666
+    },
+    {
+      "file": "Stencils/media/Stickers/fire-cc-image.svg",
+      "height": 185,
+      "id": "b50de3ade3f1a344",
+      "type": "file",
+      "width": 138,
+      "x": 900,
+      "y": 680
+    },
+    {
+      "file": "Stencils/media/Stickers/rocket-cc-image.svg",
+      "height": 147,
+      "id": "d527d7e6df9ffc87",
+      "type": "file",
+      "width": 154,
+      "x": 1081,
+      "y": 716
+    }
+  ]
+}

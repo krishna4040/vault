@@ -1,0 +1,77 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "6",
+      "height": 80,
+      "id": "ddbffbf3a4fd1e43",
+      "text": "---\ncssclasses: cc-border-left, cc-border-right, cc-border-dashed\n---\n\n# Lesson 3: Try decorating a card for yourself",
+      "type": "text",
+      "width": 680,
+      "x": -520,
+      "y": -40
+    },
+    {
+      "height": 340,
+      "id": "49991612edd60567",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\nIt is now your turn to try making a decorated card using a ccsclass command provided by Canvas Candy. Follow these steps:\n\n1. Double-click the card below to put it into edit mode\n2. on the first line type three dashes `---`. You'll notice that a blank line is added, then another line with three dashes `---`. Obsidian is preparing the editor for you to add properties, in our case the `cssclasses` property.\n3. type in `cssclasses: cc-border-double` \n6. Now go to the fourth line, which should be empty. Type some text into the card, like HELLO WORLD\n7. Now click outside the card to see the decoration take affect.",
+      "type": "text",
+      "width": 680,
+      "x": -520,
+      "y": 40
+    },
+    {
+      "color": "5",
+      "height": 167,
+      "id": "0b91d3be37577a8f",
+      "text": "",
+      "type": "text",
+      "width": 240,
+      "x": -460,
+      "y": 380
+    },
+    {
+      "color": "5",
+      "height": 167,
+      "id": "826b90187feb47ab",
+      "text": "---\ncssclasses: cc-border-double\n---\n",
+      "type": "text",
+      "width": 240,
+      "x": -110,
+      "y": 464
+    },
+    {
+      "height": 60,
+      "id": "40398b2bfb24b07f",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\nThe card should now look similar to this card:",
+      "type": "text",
+      "width": 250,
+      "x": -120,
+      "y": 380
+    },
+    {
+      "height": 60,
+      "id": "ed1b79bfe374b327",
+      "text": "---\ncssclasses: cc-border-rounded,  cc-border-right, cc-card-center, cc-card-gradient-0deg\n---\n\n[[Lesson 04 - Using multiple decorations in a card.canvas|Next]]",
+      "type": "text",
+      "width": 140,
+      "x": 20,
+      "y": 680
+    },
+    {
+      "height": 60,
+      "id": "7381f2b3229ccc51",
+      "text": "---\ncssclasses: cc-border-rounded,  cc-border-left, cc-card-center, cc-card-gradient-0deg\n---\n\n[[Lesson 02 - Decorating a card.canvas|Previous]]",
+      "type": "text",
+      "width": 140,
+      "x": -135,
+      "y": 680
+    }
+  ]
+}

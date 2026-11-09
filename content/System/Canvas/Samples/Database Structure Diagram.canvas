@@ -1,0 +1,131 @@
+{
+  "edges": [
+    {
+      "fromEnd": "arrow",
+      "fromNode": "a84bda99116f4e49",
+      "fromSide": "right",
+      "id": "82400ea393db68af",
+      "toNode": "8583ff73844bb26e",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "a84bda99116f4e49",
+      "fromSide": "right",
+      "id": "d043968794e8ee00",
+      "toNode": "18741047a4d2a772",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "18741047a4d2a772",
+      "fromSide": "bottom",
+      "id": "a26a77ca32782f78",
+      "toNode": "8583ff73844bb26e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "90128987f0ac7bcc",
+      "fromSide": "bottom",
+      "id": "713075594ededa78",
+      "toNode": "1b550b5f489165ac",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8583ff73844bb26e",
+      "fromSide": "right",
+      "id": "31794d6d2552d894",
+      "toNode": "1b550b5f489165ac",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8afb822003b7fab2",
+      "fromSide": "left",
+      "id": "01fb71b9d40ffbbd",
+      "toNode": "1b550b5f489165ac",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "90128987f0ac7bcc",
+      "fromSide": "left",
+      "id": "5337b459cc01a0c1",
+      "toNode": "18741047a4d2a772",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "4",
+      "height": 300,
+      "id": "18741047a4d2a772",
+      "text": "> [!cc-header]  💼  **Project Class** \n\n|Property|Description|\n|-|-|\n|id| Unique identifier|\n|Name|Project Name|\n|CompanyID|Project Customer|\n|Stakeholder|CustomerID|\n|StartDate| Date project starts|\n",
+      "type": "text",
+      "width": 340,
+      "x": 500,
+      "y": -700
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "a84bda99116f4e49",
+      "text": "> [!cc-label-left]  🗂 Company Class \n\n\n|Property|Description|\n|-|-|\n|id| Unique identifier|\n|Name|Company Name|\n|Address|Street Address|\n\n",
+      "type": "text",
+      "width": 340,
+      "x": -20,
+      "y": -440
+    },
+    {
+      "color": "4",
+      "height": 395,
+      "id": "8583ff73844bb26e",
+      "text": "> [!cc-header]  🧑‍🦳  **Customer Class** \n\n\n|Property|Description|\n|-|-|\n|id| Unique identifier|\n|CompanyID|Project Customer|\n|First|First Name|\n|Last|Last Name|\n\n\n\n> [!cc-footer] **Customer Entity**\n>- Each customer as a unique ID\n>- See contacts for individuals within the company\n",
+      "type": "text",
+      "width": 340,
+      "x": 500,
+      "y": -275
+    },
+    {
+      "color": "6",
+      "height": 205,
+      "id": "90128987f0ac7bcc",
+      "text": "> [!cc-header]  👥  **Project Team Class** \n\n\n|Property|Description|\n|-|-|\n|id| Unique identifier|\n|ProjectID|Project Identifier|\n",
+      "type": "text",
+      "width": 340,
+      "x": 950,
+      "y": -652
+    },
+    {
+      "color": "6",
+      "height": 363,
+      "id": "1b550b5f489165ac",
+      "text": "> [!cc-header]  🧔🧑‍🦰  **Team Members Class** \n\n\n|Property|Description|\n|-|-|\n|id| Unique identifier|\n|TeamId|Team Identifier|\n|EmployeeId|Employee Identifier|\n|CustomerId|Customer Identifier|\n\n> [!cc-footer] **Team composition**\n>Teams are made up of employees\n>and customer representatives\n",
+      "type": "text",
+      "width": 360,
+      "x": 940,
+      "y": -259
+    },
+    {
+      "color": "3",
+      "height": 248,
+      "id": "8afb822003b7fab2",
+      "text": "> [!cc-header]  🧑‍🦳 **Employee Class** \n\n\n|Property|Description|\n|-|-|\n|id| Unique identifier|\n|First|First Name|\n|Last|Last Name|\n\n> [!cc-footer-noborder] Our employees",
+      "type": "text",
+      "width": 330,
+      "x": 1420,
+      "y": -383
+    },
+    {
+      "height": 80,
+      "id": "72d9fc7d5cf6f1ca",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Project/Customer Database Diagram\n",
+      "type": "text",
+      "width": 820,
+      "x": 470,
+      "y": -800
+    }
+  ]
+}

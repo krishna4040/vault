@@ -1,0 +1,295 @@
+{
+  "edges": [
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromNode": "465298cafb490b2d",
+      "fromSide": "bottom",
+      "id": "7a5850ea6042e7e2",
+      "toNode": "138ad21fe0005ca1",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromNode": "138ad21fe0005ca1",
+      "fromSide": "right",
+      "id": "0f6e95dc8759258a",
+      "toNode": "e4f0ec5ef17f48cd",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromNode": "e4f0ec5ef17f48cd",
+      "fromSide": "right",
+      "id": "ff3f5e74843ae2a9",
+      "toNode": "78cfea7451003d42",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromNode": "78cfea7451003d42",
+      "fromSide": "top",
+      "id": "5a6639348d6f7748",
+      "label": "Kid's room",
+      "toNode": "04f741c261e594e0",
+      "toSide": "bottom"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromNode": "78cfea7451003d42",
+      "fromSide": "top",
+      "id": "cd5f6eaf29aba2ee",
+      "label": "Office",
+      "toNode": "1f1b84d55f6c729f",
+      "toSide": "bottom"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromNode": "78cfea7451003d42",
+      "fromSide": "bottom",
+      "id": "cb987af0a8808503",
+      "toNode": "4824da69e0b8b8e7",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "arrow",
+      "fromNode": "4824da69e0b8b8e7",
+      "fromSide": "bottom",
+      "id": "90d872715d2983f5",
+      "toNode": "c4f88120667444b4",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "arrow",
+      "fromNode": "4824da69e0b8b8e7",
+      "fromSide": "bottom",
+      "id": "2d27264f6b85f263",
+      "toNode": "619de9d1af4286e5",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "arrow",
+      "fromNode": "4824da69e0b8b8e7",
+      "fromSide": "bottom",
+      "id": "28c88ee1aa56a9c5",
+      "toNode": "3b00151022f85b28",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "4824da69e0b8b8e7",
+      "fromSide": "left",
+      "id": "e67380bfb1567973",
+      "label": "Wifi\nRepeater",
+      "toNode": "5481d326de5a649b",
+      "toSide": "right"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromNode": "78cfea7451003d42",
+      "fromSide": "right",
+      "id": "b02687bf56031c48",
+      "label": "Shared resource",
+      "toNode": "704cd4d59ec8ef3a",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromNode": "91dd64412896698b",
+      "fromSide": "left",
+      "id": "95087fbd7cd1ef81",
+      "label": "Living room",
+      "toNode": "78cfea7451003d42",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "file": "Samples/media/home-netowrk/cloud-cc-image.svg",
+      "height": 127,
+      "id": "465298cafb490b2d",
+      "type": "file",
+      "width": 152,
+      "x": -260,
+      "y": -614
+    },
+    {
+      "file": "Samples/media/home-netowrk/internet-provider-cc-image.svg",
+      "height": 34,
+      "id": "138ad21fe0005ca1",
+      "type": "file",
+      "width": 151,
+      "x": -260,
+      "y": -394
+    },
+    {
+      "height": 50,
+      "id": "7c365b07d41a0e81",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n### Wifi Router",
+      "type": "text",
+      "width": 214,
+      "x": 587,
+      "y": -260
+    },
+    {
+      "file": "Samples/media/home-netowrk/wireless-router-cc-image.svg",
+      "height": 125,
+      "id": "4824da69e0b8b8e7",
+      "type": "file",
+      "width": 167,
+      "x": 577,
+      "y": -210
+    },
+    {
+      "file": "Samples/media/home-netowrk/game-console-cc-image.svg",
+      "height": 120,
+      "id": "c4f88120667444b4",
+      "type": "file",
+      "width": 122,
+      "x": 391,
+      "y": 45
+    },
+    {
+      "file": "Samples/media/home-netowrk/phone-cc-image.svg",
+      "height": 98,
+      "id": "3b00151022f85b28",
+      "type": "file",
+      "width": 69,
+      "x": 801,
+      "y": -13
+    },
+    {
+      "file": "Samples/media/home-netowrk/tablet-cc-image.svg",
+      "height": 233,
+      "id": "619de9d1af4286e5",
+      "type": "file",
+      "width": 165,
+      "x": 616,
+      "y": 45
+    },
+    {
+      "file": "Samples/media/home-netowrk/firewall-cc-image.svg",
+      "height": 209,
+      "id": "e4f0ec5ef17f48cd",
+      "type": "file",
+      "width": 141,
+      "x": 23,
+      "y": -481
+    },
+    {
+      "file": "Samples/media/home-netowrk/switch-cc-image.svg",
+      "height": 50,
+      "id": "78cfea7451003d42",
+      "type": "file",
+      "width": 231,
+      "x": 296,
+      "y": -402
+    },
+    {
+      "height": 50,
+      "id": "89642cd9a680e308",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n### Switch",
+      "type": "text",
+      "width": 178,
+      "x": 412,
+      "y": -360
+    },
+    {
+      "file": "Samples/media/home-netowrk/imac-cc-image.svg",
+      "height": 114,
+      "id": "1f1b84d55f6c729f",
+      "type": "file",
+      "width": 156,
+      "x": 434,
+      "y": -702
+    },
+    {
+      "file": "Samples/media/home-netowrk/printer-cc-image.svg",
+      "height": 97,
+      "id": "704cd4d59ec8ef3a",
+      "type": "file",
+      "width": 114,
+      "x": 763,
+      "y": -578
+    },
+    {
+      "file": "Samples/media/home-netowrk/tv-cc-image.svg",
+      "height": 121,
+      "id": "91dd64412896698b",
+      "type": "file",
+      "width": 156,
+      "x": 784,
+      "y": -406
+    },
+    {
+      "file": "Samples/media/home-netowrk/kids-cc-image.svg",
+      "height": 119,
+      "id": "04f741c261e594e0",
+      "type": "file",
+      "width": 155,
+      "x": 153,
+      "y": -739
+    },
+    {
+      "height": 373,
+      "id": "3fca4daaaf6d572a",
+      "text": "---\ncssclasses: cc-card-gradient-0deg, cc-border-none, cc-border-squared\n---\n\n##### AC3200 tri-band wireless router\nThe heart of my system is my AC3200 tri-band wireless router which can broadcast three strong wifi signals to handle all our devices. ",
+      "type": "text",
+      "width": 180,
+      "x": 900,
+      "y": -233
+    },
+    {
+      "color": "1",
+      "height": 247,
+      "id": "a698a7ce3be00ec3",
+      "text": "---\ncssclasses: cc-card-gradient-0deg, cc-border-none, cc-border-squared\n---\n\n##### Fast and Secure\n\nHaving a fast and secure home network is crucial for my family since we rely on the internet for work, school, and entertainment. My home network starts with a cable modem that connects to my internet service provider.",
+      "type": "text",
+      "width": 302,
+      "x": -279,
+      "y": -260
+    },
+    {
+      "file": "Samples/media/home-netowrk/fhn-cc-image.svg",
+      "height": 93,
+      "id": "6463da20315eb17e",
+      "type": "file",
+      "width": 796,
+      "x": 5,
+      "y": -920
+    },
+    {
+      "file": "Samples/media/home-netowrk/repater-cc-image.svg",
+      "height": 127,
+      "id": "5481d326de5a649b",
+      "type": "file",
+      "width": 90,
+      "x": 153,
+      "y": -173
+    },
+    {
+      "height": 175,
+      "id": "034ff976885334da",
+      "text": "---\ncssclasses: cc-card-gradient-0deg, cc-border-none, cc-border-squared\n---\n##### 8-port gigabit ethernet\n\nMy 8-port gigabit ethernet switch has also been a worthwhile investment. I have it connected to one of the router's LAN ports so I can run ethernet cables from the switch to devices in other rooms like my home office.\n",
+      "type": "text",
+      "width": 537,
+      "x": -200,
+      "y": 53
+    }
+  ]
+}

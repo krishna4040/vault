@@ -1,0 +1,210 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromNode": "f72290a46ed0b441",
+      "fromSide": "bottom",
+      "id": "899cdb6989119e5f",
+      "toNode": "025177522f3c2608",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "f72290a46ed0b441",
+      "fromSide": "bottom",
+      "id": "06d3ca4b73f5d4ce",
+      "toNode": "695d4cccd27ef6ab",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "ca37bdebb0a7d2f9",
+      "fromSide": "bottom",
+      "id": "5ac9971c3824063a",
+      "toNode": "f72290a46ed0b441",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "ca37bdebb0a7d2f9",
+      "fromSide": "bottom",
+      "id": "fc088bda8754598b",
+      "toNode": "083fb39e2fefd58f",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "083fb39e2fefd58f",
+      "fromSide": "bottom",
+      "id": "322f0cd1cd8f14fe",
+      "toNode": "766418ef9c1676c3",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "083fb39e2fefd58f",
+      "fromSide": "bottom",
+      "id": "49b1197907905b25",
+      "toNode": "7aabc4652099f190",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "7aabc4652099f190",
+      "fromSide": "bottom",
+      "id": "499d67a5301b17ce",
+      "toNode": "9dfa82057575f239",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "7aabc4652099f190",
+      "fromSide": "bottom",
+      "id": "bb9eff08bd5fad12",
+      "toNode": "d5a9a2f33b7c2fb1",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "025177522f3c2608",
+      "fromSide": "bottom",
+      "id": "07c857b54dded370",
+      "toNode": "3fde407460558bfc",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "025177522f3c2608",
+      "fromSide": "bottom",
+      "id": "bcdfb9e7ff9413e4",
+      "toNode": "e8b90b456af3245d",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "2",
+      "height": 160,
+      "id": "ca37bdebb0a7d2f9",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[pexels-anastasia-shuraeva-5704852.jpg|120]]</span>\n<span style=\"position:absolute; top:30; left:30\"><b>Head of Product</b><br>Sandra Hemings</span>\n\n",
+      "type": "text",
+      "width": 380,
+      "x": -580,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "height": 140,
+      "id": "025177522f3c2608",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[alexis-chloe-TYDkKEgc0Fg-unsplash.jpg|100]]</span>\n<span style=\"position:absolute; top:30; left:30\"><b>Graphics Lead</b><br>Ana Tyler</span>\n",
+      "type": "text",
+      "width": 347,
+      "x": -1165,
+      "y": 220
+    },
+    {
+      "color": "3",
+      "height": 160,
+      "id": "f72290a46ed0b441",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[aiony-haust-3TLl_97HNJo-unsplash.jpg|120]]</span>\n<span style=\"position:absolute; top:30; left:30\"><b>Head of Design</b><br>Amy Smith</span>\n\n",
+      "type": "text",
+      "width": 380,
+      "x": -970,
+      "y": -100
+    },
+    {
+      "color": "5",
+      "height": 140,
+      "id": "695d4cccd27ef6ab",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[andre-ravazzi-pFHPX3W4Ft4-unsplash.jpg|100]]</span>\n<span style=\"position:absolute; top:30; left:30\"><b>Project Management</b><br>Tama Buccanon</span>\n",
+      "type": "text",
+      "width": 347,
+      "x": -740,
+      "y": 220
+    },
+    {
+      "color": "5",
+      "height": 140,
+      "id": "766418ef9c1676c3",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[stefan-stefancik-QXevDflbl8A-unsplash.jpg|100]]</span>\n<span style=\"position:absolute; top:30; left:30\"><b>QA</b><br>Kathy Abrahams</span>\n",
+      "type": "text",
+      "width": 347,
+      "x": -308,
+      "y": 220
+    },
+    {
+      "color": "4",
+      "height": 140,
+      "id": "7aabc4652099f190",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[foto-sushi-6anudmpILw4-unsplash.jpg|100]]</span>\n<span style=\"position:absolute; top:30; left:30\"><b>Dev Lead</b><br>Ben Koolth</span>\n",
+      "type": "text",
+      "width": 347,
+      "x": 94,
+      "y": 220
+    },
+    {
+      "color": "4",
+      "height": 146,
+      "id": "d5a9a2f33b7c2fb1",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[leon-elldot-f6HbVnGtNnY-unsplash.jpg|100]]</span>\n<span style=\"position:absolute; top:30; left:30\"><b>Developer</b><br>Paula Spencer</span>\n",
+      "type": "text",
+      "width": 347,
+      "x": 233,
+      "y": 540
+    },
+    {
+      "color": "4",
+      "height": 146,
+      "id": "9dfa82057575f239",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[hunter-newton-scBTgeG5K5c-unsplash.jpg|100]]</span>\n<span style=\"position:absolute; top:30; left:30\"><b>Developer</b><br>John Weaver</span>\n",
+      "type": "text",
+      "width": 347,
+      "x": -167,
+      "y": 540
+    },
+    {
+      "color": "6",
+      "height": 146,
+      "id": "3fde407460558bfc",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[arjunsyah-TBUA5KHJn6k-unsplash.jpg|100]]</span>\n<span style=\"position:absolute; top:30; left:30\"><b>Designer</b><br>Philip Portman</span>\n",
+      "type": "text",
+      "width": 347,
+      "x": -1310,
+      "y": 540
+    },
+    {
+      "color": "6",
+      "height": 146,
+      "id": "e8b90b456af3245d",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[christina-wocintechchat-com-0Zx1bDv5BNY-unsplash.jpg|100]]<span style=\"position:absolute; top:30; left:30\"><b>Designer</b><br>Cheryl Stoope</span>\n",
+      "type": "text",
+      "width": 347,
+      "x": -909,
+      "y": 540
+    },
+    {
+      "height": 80,
+      "id": "a6c4f8a677cb5a32",
+      "text": "---\ncssclasses: cc-border-left, cc-border-bottom, cc-card-transparent\n---\n\n# Product Design Team - Org Chart\n",
+      "type": "text",
+      "width": 1890,
+      "x": -1310,
+      "y": -580
+    },
+    {
+      "color": "3",
+      "height": 164,
+      "id": "083fb39e2fefd58f",
+      "text": "---\ncssclasses: cc-border-left, cc-border-double, cc-card-gradient-0deg, cc-card-gradient-0deg\n---\n\n<span style=\"float: right; padding-right:20\">![[albert-dera-ILip77SbmOE-unsplash.jpg|120]]</span><span style=\"position:absolute; top:30; left:30\"><b>Product Lead</b><br>Bart Johnson</span>\n",
+      "type": "text",
+      "width": 380,
+      "x": -151,
+      "y": -100
+    }
+  ]
+}

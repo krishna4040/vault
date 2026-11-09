@@ -1,0 +1,222 @@
+{
+  "edges": [
+    {
+      "fromNode": "06b749bbe56eeb43",
+      "fromSide": "bottom",
+      "id": "443c6843fae799b8",
+      "label": "time passes",
+      "toNode": "4a564f89aa107f2e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4a564f89aa107f2e",
+      "fromSide": "bottom",
+      "id": "a25d85c026eed865",
+      "toNode": "9aaaecdb7cff9d42",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9aaaecdb7cff9d42",
+      "fromSide": "left",
+      "id": "b75525d2a04c8b2c",
+      "label": "no",
+      "toNode": "f239dd516e78af75",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f239dd516e78af75",
+      "fromSide": "bottom",
+      "id": "bad92ab2ee60ffad",
+      "toNode": "38603637d0a82b31",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "38603637d0a82b31",
+      "fromSide": "right",
+      "id": "5f3aff090407a0e0",
+      "toNode": "4a564f89aa107f2e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c1efedff03defcff",
+      "fromSide": "bottom",
+      "id": "702a893a6f832fa8",
+      "toNode": "35c3d06529d74357",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e18f2f8271d7aff9",
+      "fromSide": "bottom",
+      "id": "22c9754d67f2029c",
+      "label": "yes",
+      "toNode": "fe0d7f922d284c11",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9aaaecdb7cff9d42",
+      "fromSide": "right",
+      "id": "3fc5be7e57e313fc",
+      "label": "yes",
+      "toNode": "fe0d7f922d284c11",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e18f2f8271d7aff9",
+      "fromSide": "bottom",
+      "id": "c9a9dc78b6d980d9",
+      "label": "no",
+      "toNode": "f503a5f676d7d8a4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fba928a8f2a8f94a",
+      "fromSide": "bottom",
+      "id": "f4472f3cb4ba3fc6",
+      "toNode": "af6d364d5023c946",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "af6d364d5023c946",
+      "fromSide": "bottom",
+      "id": "2bcaceccc99d009f",
+      "toNode": "e18f2f8271d7aff9",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "#f5b8b8",
+      "height": 620,
+      "id": "f503a5f676d7d8a4",
+      "label": "followup",
+      "type": "group",
+      "width": 670,
+      "x": -740,
+      "y": 180
+    },
+    {
+      "color": "3",
+      "height": 360,
+      "id": "fe0d7f922d284c11",
+      "label": "finalize",
+      "type": "group",
+      "width": 420,
+      "x": 120,
+      "y": 180
+    },
+    {
+      "color": "3",
+      "height": 87,
+      "id": "af6d364d5023c946",
+      "text": "---\ncssclasses: cc-shape-parallelogram-right, cc-card-center\n---\n\nReceive\nInvoice\n",
+      "type": "text",
+      "width": 135,
+      "x": -107,
+      "y": -300
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "fba928a8f2a8f94a",
+      "text": "---\ncssclasses: cc-border-rounded, cc-card-center, cc-card-gradient-0deg\n---\n\n**Start** ",
+      "type": "text",
+      "width": 220,
+      "x": -149,
+      "y": -440
+    },
+    {
+      "color": "3",
+      "height": 100,
+      "id": "06b749bbe56eeb43",
+      "text": "Enter invoice number on calendar with 30 day reminder",
+      "type": "text",
+      "width": 250,
+      "x": -335,
+      "y": 200
+    },
+    {
+      "color": "3",
+      "height": 100,
+      "id": "4a564f89aa107f2e",
+      "text": "---\ncssclasses: cc-card-center\n---\n\nReceive reminder \nfrom calendar",
+      "type": "text",
+      "width": 250,
+      "x": -335,
+      "y": 400
+    },
+    {
+      "color": "3",
+      "height": 94,
+      "id": "f239dd516e78af75",
+      "text": "---\ncssclasses: cc-shape-parallelogram-right\n---\n\nMail statement to customer with amount due",
+      "type": "text",
+      "width": 200,
+      "x": -680,
+      "y": 490
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "38603637d0a82b31",
+      "text": "---\ncssclasses: cc-border-none\n---\n\nSet calendar reminder for 15 days",
+      "type": "text",
+      "width": 180,
+      "x": -670,
+      "y": 680
+    },
+    {
+      "height": 150,
+      "id": "ffb4f333cf63f3c4",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Accounts Receivable Flowchart",
+      "type": "text",
+      "width": 625,
+      "x": -792,
+      "y": -450
+    },
+    {
+      "color": "2",
+      "height": 100,
+      "id": "e18f2f8271d7aff9",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-card-45\n---\n\n**Invoice Paid?**",
+      "type": "text",
+      "width": 98,
+      "x": -88,
+      "y": -140
+    },
+    {
+      "color": "#d84b4b",
+      "height": 60,
+      "id": "35c3d06529d74357",
+      "text": "---\ncssclasses: cc-border-rounded, cc-card-center, cc-card-gradient-0deg\n---\n\n**End**",
+      "type": "text",
+      "width": 220,
+      "x": 230,
+      "y": 397
+    },
+    {
+      "color": "3",
+      "height": 87,
+      "id": "c1efedff03defcff",
+      "text": "---\ncssclasses: cc-shape-parallelogram-right, cc-card-center\n---\n\nMail acknowledgment of payment to customer\n",
+      "type": "text",
+      "width": 240,
+      "x": 220,
+      "y": 240
+    },
+    {
+      "color": "2",
+      "height": 90,
+      "id": "9aaaecdb7cff9d42",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-card-45\n---\n\n**Invoice Paid?**",
+      "type": "text",
+      "width": 90,
+      "x": -255,
+      "y": 590
+    }
+  ]
+}

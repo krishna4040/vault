@@ -1,0 +1,60 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "1",
+      "height": 260,
+      "id": "8c7322e56fce1f31",
+      "text": ">[!cc-label-left] **Label Left**\n\n\n**Callouts:**\n```\n>[!cc-label-left]\n```\n",
+      "type": "text",
+      "width": 360,
+      "x": -740,
+      "y": 760
+    },
+    {
+      "color": "1",
+      "height": 260,
+      "id": "cf61295d23326ea7",
+      "text": ">[!cc-label-left-noborder] **Label Left**\n\n\n**Callouts:**\n```\n>[!cc-label-left-noborder]\n```\n",
+      "type": "text",
+      "width": 360,
+      "x": -340,
+      "y": 760
+    },
+    {
+      "color": "1",
+      "height": 260,
+      "id": "f05bad676973d0ca",
+      "text": ">[!cc-label-right] Label right\n\n\n**Callouts:**\n```\n>[!cc-label-right]\n```",
+      "type": "text",
+      "width": 360,
+      "x": -740,
+      "y": 1060
+    },
+    {
+      "color": "1",
+      "height": 260,
+      "id": "57b8be84d797233a",
+      "text": ">[!cc-label-right-noborder] Label right\n\n\n**Callouts:**\n```\n>[!cc-label-right-noborder]\n```",
+      "type": "text",
+      "width": 360,
+      "x": -334,
+      "y": 1060
+    },
+    {
+      "height": 500,
+      "id": "fbd56f5a7e51db0e",
+      "text": "![[02 Stencil Index]]\n\n",
+      "type": "text",
+      "width": 340,
+      "x": -740,
+      "y": 1360
+    }
+  ]
+}

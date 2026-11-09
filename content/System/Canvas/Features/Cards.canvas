@@ -1,0 +1,602 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "height": 120,
+      "id": "46d6dd27d041033d",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Canvas Candy - Card Modifications\n#### Sweet decorations for Canvas in Obsidian",
+      "type": "text",
+      "width": 811,
+      "x": 640,
+      "y": -675
+    },
+    {
+      "color": "3",
+      "height": 6,
+      "id": "65987b9d59dfa13c",
+      "text": "",
+      "type": "text",
+      "width": 2029,
+      "x": 640,
+      "y": -558
+    },
+    {
+      "color": "3",
+      "height": 6,
+      "id": "e873dd2cf50509e2",
+      "text": "",
+      "type": "text",
+      "width": 2029,
+      "x": 640,
+      "y": -700
+    },
+    {
+      "height": 509,
+      "id": "9885e2d0b6e77685",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#### Description\nChanges the background of the card\n\n**cssclasses decorations**:\n- For transparency, use:\n\t- cc-card-transparent\n- For a level of opacity, use:\n\t- cc-card-opaque\n- No color in the background\n\t- cc-card-nocolor\n- Use an image background:\n\t- cc-image-clip\n\t- cc-image-cover",
+      "type": "text",
+      "width": 411,
+      "x": 678,
+      "y": -429
+    },
+    {
+      "height": 71,
+      "id": "2428c8e126479bb2",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# No Background Color in the Card",
+      "type": "text",
+      "width": 767,
+      "x": 656,
+      "y": -520
+    },
+    {
+      "color": "#151414",
+      "height": 6,
+      "id": "fd224b10a6407cf8",
+      "text": "",
+      "type": "text",
+      "width": 949,
+      "x": 664,
+      "y": -466
+    },
+    {
+      "height": 77,
+      "id": "9999f210ccb9c6bd",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Fill a card with its border color\n",
+      "type": "text",
+      "width": 655,
+      "x": 1700,
+      "y": -534
+    },
+    {
+      "color": "#151414",
+      "height": 6,
+      "id": "942917ff6790ce8d",
+      "text": "",
+      "type": "text",
+      "width": 949,
+      "x": 1720,
+      "y": -466
+    },
+    {
+      "color": "3",
+      "height": 117,
+      "id": "b16b4c4dcc2dbb31",
+      "text": "---\ncssclasses: cc-card-opaque, cc-border-none\n---\n\nCan overlap other cards\n",
+      "type": "text",
+      "width": 180,
+      "x": 1333,
+      "y": -194
+    },
+    {
+      "color": "1",
+      "height": 111,
+      "id": "c6c9b604b842e929",
+      "text": "---\ncssclasses: cc-card-transparent, cc-shape-circle, cc-card-center\n---\n\nTransparent background",
+      "type": "text",
+      "width": 269,
+      "x": 1320,
+      "y": -371
+    },
+    {
+      "color": "1",
+      "height": 157,
+      "id": "3202793dd32230a8",
+      "text": "---\ncssclasses: cc-card-opaque, cc-shape-circle, cc-card-center\n---\n\nOpaque\n",
+      "type": "text",
+      "width": 161,
+      "x": 1219,
+      "y": -137
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "c5332306baf0da3b",
+      "text": "---\ncssclasses: cc-card-fill, cc-shape-circle\n---\n\n",
+      "type": "text",
+      "width": 118,
+      "x": 2329,
+      "y": -417
+    },
+    {
+      "height": 119,
+      "id": "9fe33305f657dd84",
+      "text": "---\ncssclasses: cc-card-fill\n---",
+      "type": "text",
+      "width": 130,
+      "x": 2145,
+      "y": -416
+    },
+    {
+      "color": "5",
+      "height": 168,
+      "id": "2a1a9234db0e1cc1",
+      "text": "---\ncssclasses: cc-card-fill, cc-shape-circle\n---\n\n",
+      "type": "text",
+      "width": 160,
+      "x": 2456,
+      "y": -273
+    },
+    {
+      "height": 50,
+      "id": "751ce93fc51ffe4e",
+      "text": "---\ncssclasses: cc-border-none, cc-shape-circle\n---\n\n",
+      "type": "text",
+      "width": 129,
+      "x": 2525,
+      "y": -248
+    },
+    {
+      "color": "6",
+      "height": 104,
+      "id": "b00644d7f1eae8f9",
+      "text": "---\ncssclasses: cc-card-fill, cc-rotate-card-45\n---\n\n",
+      "type": "text",
+      "width": 99,
+      "x": 2162,
+      "y": -241
+    },
+    {
+      "height": 134,
+      "id": "79e8306c7ee85107",
+      "text": "---\ncssclasses: cc-border-none, cc-shape-circle\n---\n\n",
+      "type": "text",
+      "width": 265,
+      "x": 2306,
+      "y": -187
+    },
+    {
+      "height": 378,
+      "id": "4cc88ab054d84adc",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#### Description\nFills the background of a card with its border color\n\nShapes can be combined with other decorations to create interesting shapes\n\n**cssclasses decorations**  \n- cc-card-fill\n\n",
+      "type": "text",
+      "width": 355,
+      "x": 1720,
+      "y": -449
+    },
+    {
+      "color": "1",
+      "height": 187,
+      "id": "dd1e7a72cd37e916",
+      "text": "---\ncssclasses: cc-card-fill\n---\n\n",
+      "type": "text",
+      "width": 253,
+      "x": 2261,
+      "y": -135
+    },
+    {
+      "height": 111,
+      "id": "b00346ef6908544a",
+      "text": "Text",
+      "type": "text",
+      "width": 138,
+      "x": 2316,
+      "y": -99
+    },
+    {
+      "color": "3",
+      "height": 104,
+      "id": "d9a3e73d4b2ca360",
+      "text": "---\ncssclasses: cc-card-fill, cc-rotate-card-45\n---\n\n",
+      "type": "text",
+      "width": 99,
+      "x": 1889,
+      "y": -129
+    },
+    {
+      "color": "3",
+      "height": 104,
+      "id": "08f8948825be62dd",
+      "text": "---\ncssclasses: cc-card-fill, cc-rotate-card-45\n---\n\n",
+      "type": "text",
+      "width": 99,
+      "x": 1976,
+      "y": -129
+    },
+    {
+      "color": "3",
+      "height": 104,
+      "id": "bd65b1fb3a6eba64",
+      "text": "---\ncssclasses: cc-card-fill, cc-rotate-card-45\n---\n\n",
+      "type": "text",
+      "width": 99,
+      "x": 2050,
+      "y": -129
+    },
+    {
+      "color": "5",
+      "height": 117,
+      "id": "542da2fcf79c1566",
+      "text": "---\ncssclasses: cc-card-transparent\n---\n\nTransparent background\n",
+      "type": "text",
+      "width": 180,
+      "x": 1089,
+      "y": -357
+    },
+    {
+      "color": "5",
+      "height": 117,
+      "id": "b5a3c65956c53c28",
+      "text": "---\ncssclasses: cc-card-opaque\n---\n\nCan overlap other cards\n",
+      "type": "text",
+      "width": 180,
+      "x": 1087,
+      "y": -187
+    },
+    {
+      "color": "2",
+      "height": 109,
+      "id": "354d90c4efc58869",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-315, cc-rotate-card-45\n---\n\nRotate text 315°",
+      "type": "text",
+      "width": 112,
+      "x": 1776,
+      "y": 1393
+    },
+    {
+      "color": "2",
+      "height": 109,
+      "id": "af6d7204bd058c30",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-135, cc-rotate-card-45\n---\n\nRotate text 135°",
+      "type": "text",
+      "width": 112,
+      "x": 2175,
+      "y": 1393
+    },
+    {
+      "color": "2",
+      "height": 109,
+      "id": "e2eab9e4d82e511a",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-270, cc-rotate-card-45\n---\n\nRotate text 270°",
+      "type": "text",
+      "width": 112,
+      "x": 1870,
+      "y": 1502
+    },
+    {
+      "color": "2",
+      "height": 109,
+      "id": "5e67d9dced64ee9b",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-180, cc-rotate-card-45\n---\n\nRotate text 180°",
+      "type": "text",
+      "width": 112,
+      "x": 2070,
+      "y": 1502
+    },
+    {
+      "color": "2",
+      "height": 109,
+      "id": "016d98e4c3020c9e",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-225, cc-rotate-card-45\n---\n\nRotate text 225°",
+      "type": "text",
+      "width": 112,
+      "x": 1967,
+      "y": 1611
+    },
+    {
+      "color": "3",
+      "height": 137,
+      "id": "3fc52775c6fd1469",
+      "text": "---\ncssclass: cc-card-center\n---\n\nNo rotation",
+      "type": "text",
+      "width": 125,
+      "x": 2311,
+      "y": 766
+    },
+    {
+      "color": "3",
+      "height": 137,
+      "id": "5dcc17eb7bc27868",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-180\n---\n\nRotate text 180°",
+      "type": "text",
+      "width": 125,
+      "x": 2311,
+      "y": 1105
+    },
+    {
+      "color": "3",
+      "height": 137,
+      "id": "3d48d4cd63ded174",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-45\n---\n\nRotate text 45°",
+      "type": "text",
+      "width": 125,
+      "x": 2467,
+      "y": 768
+    },
+    {
+      "color": "3",
+      "height": 137,
+      "id": "0fa3d7070c0d7783",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-90\n---\n\nRotate text 90°",
+      "type": "text",
+      "width": 125,
+      "x": 2467,
+      "y": 943
+    },
+    {
+      "color": "3",
+      "height": 137,
+      "id": "626afac31bb5e6d7",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-135\n---\n\nRotate text 135°",
+      "type": "text",
+      "width": 125,
+      "x": 2467,
+      "y": 1105
+    },
+    {
+      "height": 520,
+      "id": "4988abaf643f7d22",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#### Description\nRotates a card by 45 degrees, or the text within a card by various degrees\n\n**cssclasses decorations**\n - cc-rotate-card-45\n - cc-rotate-text-45\n - cc-rotate-text-90\n - cc-rotate-text-135\n - cc-rotate-text-180\n - cc-rotate-text-225\n - cc-rotate-text-270\n - cc-rotate-text-315\n - cc-rotate-text-360\n \n\n\n",
+      "type": "text",
+      "width": 305,
+      "x": 1735,
+      "y": 735
+    },
+    {
+      "color": "3",
+      "height": 137,
+      "id": "897a3a37e3374486",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-270\n---\n\nRotate text 270°",
+      "type": "text",
+      "width": 125,
+      "x": 2151,
+      "y": 943
+    },
+    {
+      "color": "2",
+      "height": 109,
+      "id": "f6427dc1f9414ebb",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-card-45\n---\n\nRotate card",
+      "type": "text",
+      "width": 112,
+      "x": 1973,
+      "y": 1188
+    },
+    {
+      "color": "2",
+      "height": 109,
+      "id": "d82719b92471924c",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-360, cc-rotate-card-45\n---\n\nRotate text 360°",
+      "type": "text",
+      "width": 112,
+      "x": 1870,
+      "y": 1288
+    },
+    {
+      "color": "2",
+      "height": 109,
+      "id": "3220e331a927b0b6",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-90, cc-rotate-card-45\n---\n\nRotate text 90°",
+      "type": "text",
+      "width": 112,
+      "x": 2070,
+      "y": 1288
+    },
+    {
+      "color": "3",
+      "height": 137,
+      "id": "b6b8ba6caddd60e8",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-225\n---\n\nRotate text 225°",
+      "type": "text",
+      "width": 125,
+      "x": 2151,
+      "y": 1105
+    },
+    {
+      "color": "3",
+      "height": 137,
+      "id": "16d46b5deba06b31",
+      "text": "---\ncssclass: cc-card-center, cc-rotate-text-315\n---\n\nRotate text 315°",
+      "type": "text",
+      "width": 125,
+      "x": 2151,
+      "y": 766
+    },
+    {
+      "height": 61,
+      "id": "5b75bb2166162e18",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Basic shapes\n",
+      "type": "text",
+      "width": 342,
+      "x": 664,
+      "y": 647
+    },
+    {
+      "height": 307,
+      "id": "c694537bd22b78a1",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#### Description\n- Simple shapes often used in Flowcharting\n\n**cssclasses decorations**\n- For a circle: \n\t- cc-shape-circle\n- For a parallelogram: \n\t- cc-shape-parallelogram-left\n\t- cc-shape-parallelogram-right\n\n",
+      "type": "text",
+      "width": 401,
+      "x": 686,
+      "y": 728
+    },
+    {
+      "color": "3",
+      "height": 140,
+      "id": "a89fdabed38042fb",
+      "text": "---\ncssclasses: cc-shape-circle, cc-card-center\n---\n\n##### Circle \n",
+      "type": "text",
+      "width": 162,
+      "x": 1093,
+      "y": 738
+    },
+    {
+      "color": "4",
+      "height": 130,
+      "id": "46013e4660553fd4",
+      "text": "---\ncssclasses: cc-shape-circle, cc-border-none, cc-card-center\n---\n\n**Ellipse** \n(stretched circle with no border) \n\n",
+      "type": "text",
+      "width": 341,
+      "x": 1281,
+      "y": 743
+    },
+    {
+      "height": 50,
+      "id": "8421f4297de25bec",
+      "text": "---\ncssclasses: cc-shape-parallelogram-left, cc-card-center\n---\n\n**Parallelogram Left**\n",
+      "type": "text",
+      "width": 222,
+      "x": 1086,
+      "y": 918
+    },
+    {
+      "height": 50,
+      "id": "e1d9dff73d75cd8c",
+      "text": "---\ncssclasses: cc-shape-parallelogram-right, cc-card-center\n---\n\n**Parallelogram Right**",
+      "type": "text",
+      "width": 221,
+      "x": 1368,
+      "y": 918
+    },
+    {
+      "color": "#151414",
+      "height": 6,
+      "id": "605da2607d3cd013",
+      "text": "",
+      "type": "text",
+      "width": 949,
+      "x": 687,
+      "y": 711
+    },
+    {
+      "height": 515,
+      "id": "40758530f83acaa2",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#### Description\nApplies a gradient background to the card, using the card's selected color. using the \"deg\" or degree suffix on the class determines the angle of the gradiante.\n\n**cssclasses decorations**\n- cc-card-gradient-0deg\n- cc-card-gradient-45deg\n- cc-card-gradient-90deg\n- cc-card-gradient-135deg\n- cc-card-gradient-180deg\n- cc-card-gradient-225deg\n- cc-card-gradient-270deg\n- cc-card-gradient-315deg",
+      "type": "text",
+      "width": 461,
+      "x": 1724,
+      "y": 140
+    },
+    {
+      "color": "6",
+      "height": 140,
+      "id": "fa148a503e5c4faa",
+      "text": "---\ncssclasses: cc-card-gradient-45deg\n---\n\ncc-card-gradient-45deg\n",
+      "type": "text",
+      "width": 300,
+      "x": 2311,
+      "y": 215
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "f4f160522e5a14d4",
+      "text": "---\ncssclasses: cc-card-gradient-270deg\n---\n\ncc-card-gradient-270deg\n",
+      "type": "text",
+      "width": 300,
+      "x": 2241,
+      "y": 398
+    },
+    {
+      "height": 59,
+      "id": "7fbf175a21c63a3b",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Rotation\n\n>[!cc-card-transparent]",
+      "type": "text",
+      "width": 563,
+      "x": 1713,
+      "y": 655
+    },
+    {
+      "color": "#151414",
+      "height": 6,
+      "id": "b73c0b6c02f29444",
+      "text": "",
+      "type": "text",
+      "width": 949,
+      "x": 1710,
+      "y": 707
+    },
+    {
+      "color": "#151414",
+      "height": 6,
+      "id": "ff327d357f7e0a4c",
+      "text": "",
+      "type": "text",
+      "width": 949,
+      "x": 659,
+      "y": 112
+    },
+    {
+      "color": "4",
+      "height": 198,
+      "id": "db438dabda0b0449",
+      "text": "Text not centered\n\n>[!cc-callout-center]\n>Centered callout contents\n\nMore text not centered",
+      "type": "text",
+      "width": 406,
+      "x": 1183,
+      "y": 140
+    },
+    {
+      "height": 452,
+      "id": "79804f02d531672a",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#### Description\nCenter of contents or a callout in a card. Not all content centers properly, so experimentation is required.\n\n**callout decorations*:\n- Center the contents of a callout in the card. The title of the callout is not shown, just its contents. This provides a way to center some content in a card independent of the other markdown in the card.\n\t- cc-callout-center\n\n**cssclasses decorations**\n- Center the contents of the card \n\t- cc-card-center\n",
+      "type": "text",
+      "width": 461,
+      "x": 673,
+      "y": 146
+    },
+    {
+      "color": "5",
+      "height": 205,
+      "id": "ee48ef26cc0447d8",
+      "text": "---\ncssclasses: cc-card-center\n---\n\nCenter content\n- Line 1\n- Line 2\n- Line 3\n",
+      "type": "text",
+      "width": 313,
+      "x": 1172,
+      "y": 359
+    },
+    {
+      "height": 71,
+      "id": "10e5f3379ab647d9",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Gradiants",
+      "type": "text",
+      "width": 653,
+      "x": 1702,
+      "y": 52
+    },
+    {
+      "color": "#151414",
+      "height": 6,
+      "id": "a0aebc4c9c1c0cd9",
+      "text": "",
+      "type": "text",
+      "width": 949,
+      "x": 1710,
+      "y": 106
+    },
+    {
+      "height": 71,
+      "id": "30df6e1ad88f791b",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Centering",
+      "type": "text",
+      "width": 653,
+      "x": 651,
+      "y": 58
+    }
+  ]
+}

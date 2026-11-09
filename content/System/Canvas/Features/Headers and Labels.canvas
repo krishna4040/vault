@@ -1,0 +1,204 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "height": 120,
+      "id": "4d48d5ba77bfd83d",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Canvas Candy - Header, Footer and Labels\n#### Sweet decorations for Canvas in Obsidian\n",
+      "type": "text",
+      "width": 811,
+      "x": 660,
+      "y": -735
+    },
+    {
+      "color": "3",
+      "height": 6,
+      "id": "607c69b6250ae882",
+      "text": "",
+      "type": "text",
+      "width": 2112,
+      "x": 670,
+      "y": -618
+    },
+    {
+      "color": "3",
+      "height": 6,
+      "id": "253ebccda34e7bd6",
+      "text": "",
+      "type": "text",
+      "width": 2112,
+      "x": 670,
+      "y": -760
+    },
+    {
+      "height": 59,
+      "id": "fe8fdd31814a686e",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Headers",
+      "type": "text",
+      "width": 563,
+      "x": 680,
+      "y": -560
+    },
+    {
+      "color": "#151414",
+      "height": 6,
+      "id": "d3b1b3eb453bc596",
+      "text": "",
+      "type": "text",
+      "width": 938,
+      "x": 702,
+      "y": -501
+    },
+    {
+      "height": 458,
+      "id": "47ced566f545a0a3",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#### Description\nAdds a header across the top of a card\n\n###### Callout Decorations:\n-  Add the following callout to the first line of a card:\n `>[!cc-header]`\n- Or to have no border line along the bottom, add:\n  `>[!cc-header-noborder]`\n- can be combined with a footer.\n- Not intended to be used with left or right labels",
+      "type": "text",
+      "width": 469,
+      "x": 702,
+      "y": -470
+    },
+    {
+      "color": "4",
+      "height": 199,
+      "id": "2a052abd4dfe0c74",
+      "text": ">[!cc-header] header\n\n**Decorations:**\n```\n>[!cc-header]\n```",
+      "type": "text",
+      "width": 300,
+      "x": 1267,
+      "y": -447
+    },
+    {
+      "height": 58,
+      "id": "09508033da32923c",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Footers",
+      "type": "text",
+      "width": 563,
+      "x": 680,
+      "y": 1
+    },
+    {
+      "color": "#151414",
+      "height": 6,
+      "id": "c8893bf2e6a919b6",
+      "text": "",
+      "type": "text",
+      "width": 938,
+      "x": 702,
+      "y": 59
+    },
+    {
+      "height": 570,
+      "id": "ea80552ad8b52c9a",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#### Description\nAdds a footer across the bottom of a card\n\n###### Callout Decorations:\n-  Add the following callout to the first line of a card:\n `>[!cc-footer]`\n- Or to have no border line along the bottom, add:\n  `>[!cc-footer-noborder]`\n- Can be combined with a header.\n- Not intended to be used with left or right labels.\n- The card's content can overrun into the footer area and will be visible behind the footer. If this is the case, resize the card so the footer has no content behind it.",
+      "type": "text",
+      "width": 469,
+      "x": 702,
+      "y": 110
+    },
+    {
+      "color": "1",
+      "height": 204,
+      "id": "03a1340a086a28ae",
+      "text": ">[!cc-label-right] Label right\n\n\n**Decorations:**\n```\n>[!cc-label-right]\n```",
+      "type": "text",
+      "width": 301,
+      "x": 2147,
+      "y": -203
+    },
+    {
+      "color": "1",
+      "height": 204,
+      "id": "2763624796c5c6ad",
+      "text": ">[!cc-label-right-noborder] Label right\n\n\n**Decorations:**\n```\n>[!cc-label-right-noborder]\n```",
+      "type": "text",
+      "width": 301,
+      "x": 2486,
+      "y": -203
+    },
+    {
+      "height": 62,
+      "id": "5585083cfdfb58d9",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Labels - Left and Right",
+      "type": "text",
+      "width": 563,
+      "x": 1680,
+      "y": -557
+    },
+    {
+      "color": "#151414",
+      "height": 6,
+      "id": "1a45711bdfb86749",
+      "text": "",
+      "type": "text",
+      "width": 1080,
+      "x": 1702,
+      "y": -498
+    },
+    {
+      "height": 627,
+      "id": "eeb54a40b83f39fc",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#### Description\nAdds a label to the side of a card\n\n###### Callout Decorations:\n-  Add the following callout to a card:\n `>[!cc-label-left]` or `>[!cc-label-right]`\n- Or to have no border line along the bottom, add:\n  `>[!cc-label-left-noborder]` or `>[!cc-label-right-noborder]`\n- Not intended to be used with headers and footers\n- If the content of the card overflows beyond the visible part of the card, the label is cut off as you scroll down the content. This is a limitation.\n",
+      "type": "text",
+      "width": 411,
+      "x": 1702,
+      "y": -467
+    },
+    {
+      "color": "1",
+      "height": 204,
+      "id": "bd91b50e0ada2e09",
+      "text": ">[!cc-label-left] Label Left\n\n\n**Decorations:**\n```\n>[!cc-label-left]\n```\n",
+      "type": "text",
+      "width": 301,
+      "x": 2147,
+      "y": -438
+    },
+    {
+      "color": "1",
+      "height": 204,
+      "id": "8c2b698860d008e2",
+      "text": ">[!cc-label-left-noborder] Label Left\n\n\n**Decorations:**\n```\n>[!cc-label-left-noborder]\n```\n",
+      "type": "text",
+      "width": 301,
+      "x": 2481,
+      "y": -438
+    },
+    {
+      "color": "4",
+      "height": 201,
+      "id": "5951efb4787b8151",
+      "text": ">[!cc-header-noborder] header\n\n**Decorations:**\n```\n>[!cc-header-noborder]\n```\n",
+      "type": "text",
+      "width": 300,
+      "x": 1267,
+      "y": -214
+    },
+    {
+      "color": "5",
+      "height": 201,
+      "id": "7efe0df063d8fe3f",
+      "text": "\n**Decorations:**\n```\n>[!cc-footer]\n```\n\n\n>[!cc-footer] footer",
+      "type": "text",
+      "width": 300,
+      "x": 1277,
+      "y": 120
+    },
+    {
+      "color": "5",
+      "height": 201,
+      "id": "37cb3de978d1eef3",
+      "text": "\n**Decorations:**\n```\n>[!cc-footer-noborder]\n```\n\n>[!cc-footer-noborder] footer\n",
+      "type": "text",
+      "width": 300,
+      "x": 1277,
+      "y": 349
+    }
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "edges": [
+    {
+      "fromNode": "3e80236e5c21a914",
+      "fromSide": "right",
+      "id": "865d1fb3f0e6e9a1",
+      "toEnd": "none",
+      "toNode": "39fc29ea799f055d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3e80236e5c21a914",
+      "fromSide": "right",
+      "id": "01bfbac389f4ecea",
+      "toEnd": "none",
+      "toNode": "dcb0ebbbdf15ae96",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3e80236e5c21a914",
+      "fromSide": "right",
+      "id": "081821e3bbf1449b",
+      "toEnd": "none",
+      "toNode": "04ea0de629b06054",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0e2cbc638afddc4c",
+      "fromSide": "right",
+      "id": "aa5ad73356c229fa",
+      "toEnd": "none",
+      "toNode": "bbfbb95b6c16ffc5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0e2cbc638afddc4c",
+      "fromSide": "right",
+      "id": "f80b75003b5ad18f",
+      "toEnd": "none",
+      "toNode": "4858bc0c50c9758b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0e2cbc638afddc4c",
+      "fromSide": "right",
+      "id": "1ba5c05fb20187b3",
+      "toEnd": "none",
+      "toNode": "5a20856d5da6557e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "71ae7c89f8674f77",
+      "fromSide": "right",
+      "id": "25800ba9b18eea8c",
+      "toEnd": "none",
+      "toNode": "502d725b4b2d5ca6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "71ae7c89f8674f77",
+      "fromSide": "right",
+      "id": "f9e246e03da91660",
+      "toEnd": "none",
+      "toNode": "1fa8a251528edd58",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "71ae7c89f8674f77",
+      "fromSide": "right",
+      "id": "3f74040f1bb82df9",
+      "toEnd": "none",
+      "toNode": "4c8a5c59f8286bcc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bbfbb95b6c16ffc5",
+      "fromSide": "right",
+      "id": "46a906b20af9f840",
+      "toEnd": "none",
+      "toNode": "4f7c87b172a650d0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bbfbb95b6c16ffc5",
+      "fromSide": "right",
+      "id": "8e2aeb31f6f9691b",
+      "toEnd": "none",
+      "toNode": "659a6c015cc73cba",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bbfbb95b6c16ffc5",
+      "fromSide": "right",
+      "id": "92483a433a5b4691",
+      "toEnd": "none",
+      "toNode": "42c958f037ecb2f9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4858bc0c50c9758b",
+      "fromSide": "right",
+      "id": "c3a096f775547c66",
+      "toEnd": "none",
+      "toNode": "8715d2256c4f1e4e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4858bc0c50c9758b",
+      "fromSide": "right",
+      "id": "8c5f35fb2b927d15",
+      "toEnd": "none",
+      "toNode": "16962ca612d9d648",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5ea99aee422cf17e",
+      "fromSide": "right",
+      "id": "f8bdc9596b54d4ce",
+      "toEnd": "none",
+      "toNode": "0e2cbc638afddc4c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5ea99aee422cf17e",
+      "fromSide": "right",
+      "id": "2734f810426ac5ad",
+      "toEnd": "none",
+      "toNode": "3e80236e5c21a914",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5ea99aee422cf17e",
+      "fromSide": "right",
+      "id": "ad80004772c04588",
+      "toEnd": "none",
+      "toNode": "71ae7c89f8674f77",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b8360bd460d4944e",
+      "fromSide": "left",
+      "id": "0a1f403111f76cf3",
+      "toEnd": "none",
+      "toNode": "c7d1947439ab33f3",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "b8360bd460d4944e",
+      "fromSide": "left",
+      "id": "106c954a2bd661d6",
+      "toEnd": "none",
+      "toNode": "630b2edccb61f9af",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "5ea99aee422cf17e",
+      "fromSide": "left",
+      "id": "d7398b50c540999c",
+      "toEnd": "none",
+      "toNode": "b8360bd460d4944e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "5ea99aee422cf17e",
+      "fromSide": "left",
+      "id": "4d63c38eae3bc908",
+      "toEnd": "none",
+      "toNode": "c480163f814d8624",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c480163f814d8624",
+      "fromSide": "left",
+      "id": "4d7e31a330088621",
+      "toEnd": "none",
+      "toNode": "71d3fab7398d0a83",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c480163f814d8624",
+      "fromSide": "left",
+      "id": "b6469531143e7101",
+      "toEnd": "none",
+      "toNode": "fbefb884cc97f516",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "5ea99aee422cf17e",
+      "fromSide": "left",
+      "id": "005480a1b983837e",
+      "toEnd": "none",
+      "toNode": "0a3b0fd0e943ee58",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0a3b0fd0e943ee58",
+      "fromSide": "left",
+      "id": "48b40188d9510d27",
+      "toEnd": "none",
+      "toNode": "4da090629caa59e5",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0a3b0fd0e943ee58",
+      "fromSide": "left",
+      "id": "2e249a1d546d2b5a",
+      "toEnd": "none",
+      "toNode": "6d4ea5046f077a46",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0a3b0fd0e943ee58",
+      "fromSide": "left",
+      "id": "5384632d49090265",
+      "toEnd": "none",
+      "toNode": "aaa13306d8a71994",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0a3b0fd0e943ee58",
+      "fromSide": "left",
+      "id": "f5c686592ebffe83",
+      "toEnd": "none",
+      "toNode": "d448abf2198654e9",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0a3b0fd0e943ee58",
+      "fromSide": "left",
+      "id": "b234ca34ae01bd60",
+      "toEnd": "none",
+      "toNode": "11de76b0e3e69b74",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "5a20856d5da6557e",
+      "fromSide": "bottom",
+      "id": "b64c0f46d3055b7d",
+      "toEnd": "none",
+      "toNode": "a30bb28596b707cd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5a20856d5da6557e",
+      "fromSide": "bottom",
+      "id": "c8b0c8669606e60a",
+      "toEnd": "none",
+      "toNode": "b73d3b7d25dac0b4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c7d1947439ab33f3",
+      "fromSide": "left",
+      "id": "645a7dbc18ccce9b",
+      "toEnd": "none",
+      "toNode": "2190c6340b368caa",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c7d1947439ab33f3",
+      "fromSide": "left",
+      "id": "fab3c112edbaa007",
+      "toEnd": "none",
+      "toNode": "0c81c1adce8fc6db",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c7d1947439ab33f3",
+      "fromSide": "left",
+      "id": "b3ef407ba03b64dc",
+      "toEnd": "none",
+      "toNode": "e24435b369c41a34",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "630b2edccb61f9af",
+      "fromSide": "left",
+      "id": "b0615ab190bda4ac",
+      "toEnd": "none",
+      "toNode": "313d766ab7bb9ee3",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "630b2edccb61f9af",
+      "fromSide": "left",
+      "id": "df1efcca4fe919fe",
+      "toEnd": "none",
+      "toNode": "bd8a525872eee60f",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "5",
+      "height": 50,
+      "id": "16962ca612d9d648",
+      "text": "---\ncssclasses: cc-border-left\n---\n\nProprietary",
+      "type": "text",
+      "width": 170,
+      "x": 810,
+      "y": -68
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "8715d2256c4f1e4e",
+      "text": "---\ncssclasses: cc-border-left\n---\n\nPublic domain",
+      "type": "text",
+      "width": 170,
+      "x": 810,
+      "y": -149
+    },
+    {
+      "color": "5",
+      "height": 70,
+      "id": "0e2cbc638afddc4c",
+      "text": "---\ncssclasses: cc-border-bottom\n---\n\n**Collect**",
+      "type": "text",
+      "width": 180,
+      "x": 297,
+      "y": -159
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "bbfbb95b6c16ffc5",
+      "text": "---\ncssclasses: cc-border-left\n---\n\n**Information**",
+      "type": "text",
+      "width": 146,
+      "x": 569,
+      "y": -265
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "42c958f037ecb2f9",
+      "text": "---\ncssclasses: cc-border-left\n---\n\nResearch literature",
+      "type": "text",
+      "width": 196,
+      "x": 807,
+      "y": -240
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "a30bb28596b707cd",
+      "text": "---\ncssclasses: cc-border-left\n---\n\nPublic ",
+      "type": "text",
+      "width": 118,
+      "x": 766,
+      "y": 40
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "b73d3b7d25dac0b4",
+      "text": "---\ncssclasses: cc-border-left\n---\n\nPrivate\n",
+      "type": "text",
+      "width": 118,
+      "x": 766,
+      "y": 111
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "659a6c015cc73cba",
+      "text": "---\ncssclasses: cc-border-left\n---\n\nLecture Notes",
+      "type": "text",
+      "width": 170,
+      "x": 810,
+      "y": -315
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "4f7c87b172a650d0",
+      "text": "---\ncssclasses: cc-border-left\n---\n\nBooks",
+      "type": "text",
+      "width": 126,
+      "x": 779,
+      "y": -380
+    },
+    {
+      "color": "6",
+      "height": 70,
+      "id": "71ae7c89f8674f77",
+      "text": "---\ncssclasses: cc-border-bottom\n---\n\n**Preparation**",
+      "type": "text",
+      "width": 180,
+      "x": 140,
+      "y": 186
+    },
+    {
+      "color": "6",
+      "height": 50,
+      "id": "502d725b4b2d5ca6",
+      "text": "---\ncssclasses: cc-border-left\n---\n\n**Find a best place to write**",
+      "type": "text",
+      "width": 188,
+      "x": 454,
+      "y": 99
+    },
+    {
+      "color": "6",
+      "height": 50,
+      "id": "1fa8a251528edd58",
+      "text": "---\ncssclasses: cc-border-left\n---\n\n**Choose a way to write**",
+      "type": "text",
+      "width": 188,
+      "x": 454,
+      "y": 195
+    },
+    {
+      "color": "6",
+      "height": 50,
+      "id": "4c8a5c59f8286bcc",
+      "text": "---\ncssclasses: cc-border-left\n---\n\n**Brainstorming**",
+      "type": "text",
+      "width": 188,
+      "x": 454,
+      "y": 304
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "5a20856d5da6557e",
+      "text": "---\ncssclasses: cc-border-left\n---\n\n**Data**",
+      "type": "text",
+      "width": 146,
+      "x": 620,
+      "y": -43
+    },
+    {
+      "color": "5",
+      "height": 50,
+      "id": "4858bc0c50c9758b",
+      "text": "---\ncssclasses: cc-border-left\n---\n\n**Graphics**",
+      "type": "text",
+      "width": 146,
+      "x": 594,
+      "y": -149
+    },
+    {
+      "color": "2",
+      "height": 70,
+      "id": "c480163f814d8624",
+      "text": "---\ncssclasses: cc-border-bottom\n---\n\n**Rework**",
+      "type": "text",
+      "width": 180,
+      "x": -675,
+      "y": -198
+    },
+    {
+      "color": "2",
+      "height": 50,
+      "id": "fbefb884cc97f516",
+      "text": "---\ncssclasses: cc-border-right\n---\n\n**Get unbiased feedback**",
+      "type": "text",
+      "width": 234,
+      "x": -1014,
+      "y": -149
+    },
+    {
+      "color": "2",
+      "height": 50,
+      "id": "71d3fab7398d0a83",
+      "text": "---\ncssclasses: cc-border-right\n---\n\n**Keep rewriting**",
+      "type": "text",
+      "width": 188,
+      "x": -968,
+      "y": -223
+    },
+    {
+      "color": "2",
+      "height": 50,
+      "id": "e24435b369c41a34",
+      "text": "---\ncssclasses: cc-border-right\n---\n\nConclusion",
+      "type": "text",
+      "width": 187,
+      "x": -970,
+      "y": 135
+    },
+    {
+      "color": "2",
+      "height": 50,
+      "id": "313d766ab7bb9ee3",
+      "text": "---\ncssclasses: cc-border-right\n---\n\nAnalyze each section",
+      "type": "text",
+      "width": 217,
+      "x": -999,
+      "y": 231
+    },
+    {
+      "color": "2",
+      "height": 50,
+      "id": "630b2edccb61f9af",
+      "text": "---\ncssclasses: cc-border-right\n---\n\nEdit second draft",
+      "type": "text",
+      "width": 188,
+      "x": -679,
+      "y": 256
+    },
+    {
+      "color": "2",
+      "height": 50,
+      "id": "bd8a525872eee60f",
+      "text": "---\ncssclasses: cc-border-right\n---\n\nProofread",
+      "type": "text",
+      "width": 170,
+      "x": -952,
+      "y": 306
+    },
+    {
+      "color": "2",
+      "height": 52,
+      "id": "2190c6340b368caa",
+      "text": "---\ncssclasses: cc-border-right\n---\n\nBrief introduction",
+      "type": "text",
+      "width": 187,
+      "x": -952,
+      "y": -34
+    },
+    {
+      "color": "2",
+      "height": 50,
+      "id": "c7d1947439ab33f3",
+      "text": "---\ncssclasses: cc-border-right\n---\n\n**Rough outline**",
+      "type": "text",
+      "width": 188,
+      "x": -668,
+      "y": 5
+    },
+    {
+      "color": "2",
+      "height": 50,
+      "id": "0c81c1adce8fc6db",
+      "text": "---\ncssclasses: cc-border-right\n---\n\nMain body",
+      "type": "text",
+      "width": 187,
+      "x": -979,
+      "y": 51
+    },
+    {
+      "color": "2",
+      "height": 70,
+      "id": "b8360bd460d4944e",
+      "text": "---\ncssclasses: cc-border-bottom\n---\n\n**Writing drafts**",
+      "type": "text",
+      "width": 180,
+      "x": -409,
+      "y": 94
+    },
+    {
+      "color": "1",
+      "height": 52,
+      "id": "4da090629caa59e5",
+      "text": "---\ncssclasses: cc-border-right\n---\n\n**Needless words**",
+      "type": "text",
+      "width": 188,
+      "x": -782,
+      "y": -654
+    },
+    {
+      "color": "1",
+      "height": 50,
+      "id": "6d4ea5046f077a46",
+      "text": "---\ncssclasses: cc-border-right\n---\n\n**Sentence**",
+      "type": "text",
+      "width": 156,
+      "x": -812,
+      "y": -577
+    },
+    {
+      "color": "1",
+      "height": 50,
+      "id": "aaa13306d8a71994",
+      "text": "---\ncssclasses: cc-border-right\n---\n\n**Expand vocabulary**",
+      "type": "text",
+      "width": 220,
+      "x": -916,
+      "y": -506
+    },
+    {
+      "color": "1",
+      "height": 50,
+      "id": "d448abf2198654e9",
+      "text": "---\ncssclasses: cc-border-right\n---\n\n**Punctuation**",
+      "type": "text",
+      "width": 156,
+      "x": -812,
+      "y": -422
+    },
+    {
+      "color": "1",
+      "height": 50,
+      "id": "11de76b0e3e69b74",
+      "text": "---\ncssclasses: cc-border-right\n---\n\n**Typos**",
+      "type": "text",
+      "width": 140,
+      "x": -734,
+      "y": -332
+    },
+    {
+      "color": "4",
+      "height": 70,
+      "id": "3e80236e5c21a914",
+      "text": "---\ncssclasses: cc-border-bottom\n---\n\n**Starting**",
+      "type": "text",
+      "width": 180,
+      "x": 207,
+      "y": -537
+    },
+    {
+      "color": "4",
+      "height": 50,
+      "id": "39fc29ea799f055d",
+      "text": "---\ncssclasses: cc-border-left\n---\n\n**Theme**",
+      "type": "text",
+      "width": 141,
+      "x": 479,
+      "y": -623
+    },
+    {
+      "color": "4",
+      "height": 50,
+      "id": "dcb0ebbbdf15ae96",
+      "text": "---\ncssclasses: cc-border-left\n---\n\n**Title**",
+      "type": "text",
+      "width": 141,
+      "x": 479,
+      "y": -527
+    },
+    {
+      "color": "4",
+      "height": 50,
+      "id": "04ea0de629b06054",
+      "text": "---\ncssclasses: cc-border-left\n---\n\n**Target Reader**",
+      "type": "text",
+      "width": 188,
+      "x": 479,
+      "y": -418
+    },
+    {
+      "color": "1",
+      "height": 70,
+      "id": "0a3b0fd0e943ee58",
+      "text": "---\ncssclasses: cc-border-bottom\n---\n\n**Check**",
+      "type": "text",
+      "width": 180,
+      "x": -460,
+      "y": -492
+    },
+    {
+      "height": 135,
+      "id": "4d3774d789321bcf",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Writing Process Mind Map",
+      "type": "text",
+      "width": 437,
+      "x": -229,
+      "y": -712
+    },
+    {
+      "color": "#0f45c2",
+      "height": 128,
+      "id": "5ea99aee422cf17e",
+      "text": "---\ncssclasses: cc-shape-circle, cc-card-center\n---\n\n##### Writing Process",
+      "type": "text",
+      "width": 280,
+      "x": -176,
+      "y": -262
+    },
+    {
+      "color": "1",
+      "height": 55,
+      "id": "f65f4544f778dbcb",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n[Source of inspiration](https://www.edrawsoft.com/template-writting-process-mind-map.html)",
+      "type": "text",
+      "width": 233,
+      "x": 672,
+      "y": 400
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "#91b2e8",
+      "height": 87,
+      "id": "c148b5bc174cb1c4",
+      "text": "---\ncssclasses: cc-card-center, cc-shape-parallelogram-left, cc-card-fill, cc-card-gradient-0deg\n---",
+      "type": "text",
+      "width": 488,
+      "x": -348,
+      "y": -280
+    },
+    {
+      "height": 396,
+      "id": "d7045cd10b0a375e",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 140,
+      "x": -669,
+      "y": -193
+    },
+    {
+      "height": 130,
+      "id": "b44134d53055bbf2",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 51,
+      "x": -607,
+      "y": -410
+    },
+    {
+      "color": "#91b2e8",
+      "height": 87,
+      "id": "e4c1e3fb716aecd2",
+      "text": "---\ncssclasses: cc-card-center, cc-shape-parallelogram-left, cc-card-fill, cc-card-gradient-0deg\n---",
+      "type": "text",
+      "width": 183,
+      "x": -1060,
+      "y": -280
+    },
+    {
+      "height": 200,
+      "id": "f95d8fb3729effb1",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 140,
+      "x": -1044,
+      "y": -480
+    },
+    {
+      "color": "#91b2e8",
+      "height": 140,
+      "id": "aaf345a456febece",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**January 27, 1967**\nUnmanned test flight that ended in a cabin fire.\n",
+      "type": "text",
+      "width": 201,
+      "x": -1044,
+      "y": -480
+    },
+    {
+      "color": "#80b0ff",
+      "height": 87,
+      "id": "87ebb319e975566f",
+      "text": "---\ncssclasses: cc-card-center, cc-shape-parallelogram-left, cc-card-fill, cc-card-gradient-0deg\n---",
+      "type": "text",
+      "width": 449,
+      "x": -837,
+      "y": -280
+    },
+    {
+      "color": "#91b2e8",
+      "height": 140,
+      "id": "40f097581215bdb0",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**November 9, 1967**\nFirst unmanned test flight of the Saturn V launch vehicle.\n",
+      "type": "text",
+      "width": 201,
+      "x": -1096,
+      "y": -33
+    },
+    {
+      "height": 271,
+      "id": "0db2b00e7358193a",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 70,
+      "x": -907,
+      "y": -193
+    },
+    {
+      "height": 176,
+      "id": "208451a16eda4393",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 140,
+      "x": -429,
+      "y": -191
+    },
+    {
+      "color": "#80b0ff",
+      "height": 78,
+      "id": "be3ad82b1bd28cb9",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#  1968",
+      "type": "text",
+      "width": 156,
+      "x": -696,
+      "y": -271
+    },
+    {
+      "height": 190,
+      "id": "36e9687cd5547d48",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 140,
+      "x": -304,
+      "y": -470
+    },
+    {
+      "height": 140,
+      "id": "b46d0f3ddd807c8b",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---**March 3-13, 1969**\nTested the Lunar Module in Earth orbit.\n",
+      "type": "text",
+      "width": 201,
+      "x": -304,
+      "y": -470
+    },
+    {
+      "color": "#80b0ff",
+      "height": 122,
+      "id": "6f56b251ceebd873",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 5",
+      "type": "text",
+      "width": 124,
+      "x": -854,
+      "y": -760
+    },
+    {
+      "height": 360,
+      "id": "f833f8b2d2bad994",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 63,
+      "x": -797,
+      "y": -640
+    },
+    {
+      "color": "#80b0ff",
+      "height": 140,
+      "id": "382fcf8f73bebd2f",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**January 22, 1968**\nFirst unmanned Lunar Module mission.\n",
+      "type": "text",
+      "width": 201,
+      "x": -796,
+      "y": -640
+    },
+    {
+      "height": 333,
+      "id": "162ba7b4d1e312b5",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 70,
+      "x": -223,
+      "y": -193
+    },
+    {
+      "height": 322,
+      "id": "b27ec79a44155851",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 101,
+      "x": -91,
+      "y": -602
+    },
+    {
+      "height": 152,
+      "id": "2f3b2dfc1e4150ab",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 60,
+      "x": 80,
+      "y": -193
+    },
+    {
+      "color": "#91b2e8",
+      "height": 162,
+      "id": "e5eb88e20ff67579",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**November 14-24, 1969**\nSecond mission to land humans on the Moon.\n",
+      "type": "text",
+      "width": 250,
+      "x": -136,
+      "y": -144
+    },
+    {
+      "color": "#91b2e8",
+      "height": 162,
+      "id": "13daf003a25c49fa",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**May 18-26, 1969**\nDress rehearsal for 1st Moon landing. Tested  n  Moon's orbit.\n",
+      "type": "text",
+      "width": 217,
+      "x": -228,
+      "y": 18
+    },
+    {
+      "color": "#80b0ff",
+      "height": 140,
+      "id": "108273008975a589",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 13",
+      "type": "text",
+      "width": 139,
+      "x": 140,
+      "y": -590
+    },
+    {
+      "color": "#91b2e8",
+      "height": 122,
+      "id": "058e2d6cb0305093",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 1",
+      "type": "text",
+      "width": 124,
+      "x": -1106,
+      "y": -602
+    },
+    {
+      "color": "#80b0ff",
+      "height": 122,
+      "id": "9123b3c8a5a6acad",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 7",
+      "type": "text",
+      "width": 124,
+      "x": -669,
+      "y": -534
+    },
+    {
+      "color": "#80b0ff",
+      "height": 142,
+      "id": "cdaeef6ea8f8136b",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**April 4, 1968**\nFinal unmanned Apollo test mission.\n",
+      "type": "text",
+      "width": 202,
+      "x": -669,
+      "y": 99
+    },
+    {
+      "color": "#80b0ff",
+      "height": 122,
+      "id": "5d718f5934800e56",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 8",
+      "type": "text",
+      "width": 124,
+      "x": -471,
+      "y": -15
+    },
+    {
+      "color": "#80b0ff",
+      "height": 140,
+      "id": "9b82aac8b365ef06",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**December 21-27, 1968**\nFirst manned mission to orbit the Moon.\n",
+      "type": "text",
+      "width": 237,
+      "x": -645,
+      "y": -122
+    },
+    {
+      "color": "#91b2e8",
+      "height": 124,
+      "id": "f5fd37db52485f78",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 10",
+      "type": "text",
+      "width": 133,
+      "x": -284,
+      "y": 140
+    },
+    {
+      "height": 170,
+      "id": "4e5d95525e899a96",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 64,
+      "x": 210,
+      "y": -450
+    },
+    {
+      "color": "#80b0ff",
+      "height": 170,
+      "id": "ac79d940eb4b60dd",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**April 11-17, 1970**\nCritical failure, returned home.\n",
+      "type": "text",
+      "width": 207,
+      "x": 220,
+      "y": -450
+    },
+    {
+      "height": 180,
+      "id": "a1e1e180ff6db5e5",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---**July 16-24, 1969**\nFirst mission to land humans on the Moon. [Learn more](https://billpetro.com/history-of-1st-moon-landing-apollo-11/)\n",
+      "type": "text",
+      "width": 199,
+      "x": -91,
+      "y": -610
+    },
+    {
+      "color": "#91b2e8",
+      "height": 139,
+      "id": "80e0f4a5a5da807e",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 14",
+      "type": "text",
+      "width": 157,
+      "x": 361,
+      "y": -680
+    },
+    {
+      "height": 264,
+      "id": "363f294e3aa970f1",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 101,
+      "x": 427,
+      "y": -540
+    },
+    {
+      "height": 244,
+      "id": "91c9a6c1209dbbea",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**January 31 - \nFebruary 9, 1971**\nThird mission to land humans on the Moon.\n",
+      "type": "text",
+      "width": 172,
+      "x": 434,
+      "y": -534
+    },
+    {
+      "height": 331,
+      "id": "6973c475ebff01be",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 50,
+      "x": 518,
+      "y": -200
+    },
+    {
+      "height": 171,
+      "id": "3d6c09b6257eb206",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**July 26 - August 7, 1971**\nFourth mission to land humans on the Moon. First to use a Lunar Roving Vehicle.\n",
+      "type": "text",
+      "width": 274,
+      "x": 260,
+      "y": -166
+    },
+    {
+      "height": 78,
+      "id": "3a25c5f50dd42f09",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#  1969",
+      "type": "text",
+      "width": 178,
+      "x": -163,
+      "y": -269
+    },
+    {
+      "color": "#91b2e8",
+      "height": 130,
+      "id": "089cd4f7e9da36aa",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 16",
+      "type": "text",
+      "width": 132,
+      "x": 600,
+      "y": -560
+    },
+    {
+      "height": 187,
+      "id": "85420559408da63a",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 70,
+      "x": 791,
+      "y": -193
+    },
+    {
+      "color": "#91b2e8",
+      "height": 124,
+      "id": "1f68ff2a8d1b4eab",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 16",
+      "type": "text",
+      "width": 133,
+      "x": 728,
+      "y": -6
+    },
+    {
+      "height": 186,
+      "id": "95c472c497fb9581",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**December 7-19, 1972**\nSixth and last Apollo mission to land humans on the Moon. 🥲\n",
+      "type": "text",
+      "width": 190,
+      "x": 606,
+      "y": -173
+    },
+    {
+      "color": "#91b2e8",
+      "height": 124,
+      "id": "15c4dee1b4282e9c",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 4",
+      "type": "text",
+      "width": 124,
+      "x": -969,
+      "y": 78
+    },
+    {
+      "color": "#91b2e8",
+      "height": 122,
+      "id": "6635514abe27eb0d",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 9",
+      "type": "text",
+      "width": 124,
+      "x": -366,
+      "y": -590
+    },
+    {
+      "height": 154,
+      "id": "9dacef709001bb07",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 50,
+      "x": 662,
+      "y": -430
+    },
+    {
+      "height": 140,
+      "id": "0228f91e176c8169",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**April 16-27, 1972**\nFifth mission to land humans on the Moon.\n",
+      "type": "text",
+      "width": 205,
+      "x": 662,
+      "y": -430
+    },
+    {
+      "height": 322,
+      "id": "e16ad6f4bdadcb1c",
+      "text": "---\ncssclasses: cc-border-left, cc-card-transparent\n---",
+      "type": "text",
+      "width": 101,
+      "x": -97,
+      "y": -602
+    },
+    {
+      "color": "#2069df",
+      "height": 122,
+      "id": "95a426baee4ba220",
+      "text": "---\ncssclasses: cc-shape-circle, cc-border-dropshadow, cc-card-center\n---\n\n**Apollo 11**",
+      "type": "text",
+      "width": 131,
+      "x": -156,
+      "y": -724
+    },
+    {
+      "height": 170,
+      "id": "9d37c332918c67be",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n**October 11-22, 1968**\nFirst manned mission. Tested Command Module in Earth orbit.\n",
+      "type": "text",
+      "width": 207,
+      "x": -595,
+      "y": -439
+    },
+    {
+      "color": "#80b0ff",
+      "height": 137,
+      "id": "30ad6be021f5d5db",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 6",
+      "type": "text",
+      "width": 131,
+      "x": -730,
+      "y": 203
+    },
+    {
+      "color": "#91b2e8",
+      "height": 142,
+      "id": "9407aab1b25c614f",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 12",
+      "type": "text",
+      "width": 145,
+      "x": 8,
+      "y": -41
+    },
+    {
+      "color": "#80b0ff",
+      "height": 87,
+      "id": "40f89e21652efc93",
+      "text": "---\ncssclasses: cc-card-center, cc-shape-parallelogram-left, cc-card-fill, cc-card-gradient-0deg\n---",
+      "type": "text",
+      "width": 146,
+      "x": 180,
+      "y": -280
+    },
+    {
+      "color": "#80b0ff",
+      "height": 78,
+      "id": "909de8cc3baee245",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#  1970",
+      "type": "text",
+      "width": 156,
+      "x": 196,
+      "y": -270
+    },
+    {
+      "color": "#91b2e8",
+      "height": 87,
+      "id": "a09c124d3e1d8257",
+      "text": "---\ncssclasses: cc-card-center, cc-shape-parallelogram-left, cc-card-fill, cc-card-gradient-0deg\n---",
+      "type": "text",
+      "width": 183,
+      "x": 381,
+      "y": -277
+    },
+    {
+      "height": 71,
+      "id": "91b7f9309ebc7efb",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#  1971",
+      "type": "text",
+      "width": 139,
+      "x": 409,
+      "y": -270
+    },
+    {
+      "color": "#80b0ff",
+      "height": 87,
+      "id": "0bb9ac60ae3d3f81",
+      "text": "---\ncssclasses: cc-card-center, cc-shape-parallelogram-left, cc-card-fill, cc-card-gradient-0deg\n---",
+      "type": "text",
+      "width": 171,
+      "x": 643,
+      "y": -282
+    },
+    {
+      "height": 130,
+      "id": "9fa0133cb2fd00dc",
+      "text": "---\ncssclasses: cc-border-dropshadow, cc-shape-circle, cc-card-center\n---\n\nApollo 15",
+      "type": "text",
+      "width": 145,
+      "x": 446,
+      "y": 131
+    },
+    {
+      "file": "Samples/media/apollo/history-in-hd-e5eDHbmHprg-unsplash-cc-image.jpg",
+      "height": 136,
+      "id": "7d3a953c691a4c78",
+      "type": "file",
+      "width": 184,
+      "x": -70,
+      "y": -475
+    },
+    {
+      "file": "Samples/media/apollo/nasa-coEJ3MW8jV8-unsplash--cc-image.jpg",
+      "height": 140,
+      "id": "ceb8e4fe55ce92bd",
+      "type": "file",
+      "width": 171,
+      "x": -882,
+      "y": -122
+    },
+    {
+      "file": "Samples/media/apollo/nasa-Ed2AELHKYBw-unsplash--cc-image.jpg",
+      "height": 154,
+      "id": "81e9734218c063ef",
+      "type": "file",
+      "width": 211,
+      "x": 293,
+      "y": -34
+    },
+    {
+      "height": 172,
+      "id": "a326cbfb4e75135c",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#  Apollo Missions Timeline",
+      "type": "text",
+      "width": 507,
+      "x": -347,
+      "y": -871
+    },
+    {
+      "height": 78,
+      "id": "c4417a0a5661f482",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#  1967",
+      "type": "text",
+      "width": 157,
+      "x": -1034,
+      "y": -269
+    },
+    {
+      "color": "#80b0ff",
+      "height": 71,
+      "id": "cc61538128792328",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n#  1972",
+      "type": "text",
+      "width": 190,
+      "x": 662,
+      "y": -272
+    }
+  ]
+}

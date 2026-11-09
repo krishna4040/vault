@@ -1,0 +1,357 @@
+{
+  "edges": [
+    {
+      "fromNode": "7a8c14f718a15da3",
+      "fromSide": "left",
+      "id": "5c4e3314cb861869",
+      "toEnd": "none",
+      "toNode": "ca293051aa6bed36",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "7a8c14f718a15da3",
+      "fromSide": "left",
+      "id": "aeba5adbc5954765",
+      "toEnd": "none",
+      "toNode": "07e2846f4bdb35d2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "7a8c14f718a15da3",
+      "fromSide": "left",
+      "id": "09ef6e9d49bd9e1e",
+      "toEnd": "none",
+      "toNode": "7fb005b70153d034",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "389adeb4d0e156ee",
+      "fromSide": "left",
+      "id": "4314bb7c94acecea",
+      "toEnd": "none",
+      "toNode": "9436bc0de52d1414",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "389adeb4d0e156ee",
+      "fromSide": "left",
+      "id": "84098f00d2b6ea8a",
+      "toEnd": "none",
+      "toNode": "c5c85446f53d037b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "389adeb4d0e156ee",
+      "fromSide": "left",
+      "id": "0ac3200555758c28",
+      "toNode": "da09c19a0ff00737",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "884bd2af9a47afee",
+      "fromSide": "right",
+      "id": "28ce28ff73427365",
+      "toEnd": "none",
+      "toNode": "1c7d3d688d250a12",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "884bd2af9a47afee",
+      "fromSide": "right",
+      "id": "f2cd82d3282757b0",
+      "toEnd": "none",
+      "toNode": "f0ed41bffa914444",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "884bd2af9a47afee",
+      "fromSide": "right",
+      "id": "2e235e8f9f1398b0",
+      "toEnd": "none",
+      "toNode": "e7f372ac0a3b2262",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f0ed41bffa914444",
+      "fromSide": "right",
+      "id": "e38873c1be056be6",
+      "toEnd": "none",
+      "toNode": "4c89f37f5c49b4a0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f0ed41bffa914444",
+      "fromSide": "right",
+      "id": "c87fe7dbf536992d",
+      "toEnd": "none",
+      "toNode": "3755ae8c80afdbb7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e7f372ac0a3b2262",
+      "fromSide": "right",
+      "id": "9ef3052f5a2ab6c6",
+      "toNode": "ae60132bf90d73c7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e7f372ac0a3b2262",
+      "fromSide": "right",
+      "id": "f9b52eb6765748e3",
+      "toEnd": "none",
+      "toNode": "5b0549f7d7c35b44",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e7f372ac0a3b2262",
+      "fromSide": "right",
+      "id": "e0b2b65dc20cf08a",
+      "toEnd": "none",
+      "toNode": "dc1ad567c0cebb82",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "884bd2af9a47afee",
+      "fromSide": "left",
+      "id": "90ce434af646c7a8",
+      "toEnd": "none",
+      "toNode": "7a8c14f718a15da3",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "884bd2af9a47afee",
+      "fromSide": "left",
+      "id": "baa2334a70244e7f",
+      "toEnd": "none",
+      "toNode": "389adeb4d0e156ee",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "1c7d3d688d250a12",
+      "fromSide": "right",
+      "id": "5918c3a2b3fd1c33",
+      "toNode": "8b97d1020f046067",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1c7d3d688d250a12",
+      "fromSide": "right",
+      "id": "5ed577b723109321",
+      "toNode": "2373a9d9d188aaea",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "#ffbdbd",
+      "height": 100,
+      "id": "884bd2af9a47afee",
+      "text": "---\ncssclasses: cc-card-center, cc-border-double, cc-card-fill, cc-card-gradient-0deg, cc-border-rounded\n---\n\nNew Product",
+      "type": "text",
+      "width": 185,
+      "x": -92,
+      "y": -80
+    },
+    {
+      "color": "#a48be9",
+      "height": 100,
+      "id": "07e2846f4bdb35d2",
+      "text": "---\ncssclasses: cc-card-center, cc-border-right, cc-card-fill, cc-card-gradient-0deg\n---\n\nRetailers",
+      "type": "text",
+      "width": 185,
+      "x": -680,
+      "y": -240
+    },
+    {
+      "color": "#8e8585",
+      "height": 100,
+      "id": "c5c85446f53d037b",
+      "text": "---\ncssclasses: cc-card-center, cc-border-right, cc-card-fill, cc-card-gradient-0deg\n---\n\nPR agency",
+      "type": "text",
+      "width": 185,
+      "x": -680,
+      "y": 200
+    },
+    {
+      "color": "#8e8585",
+      "height": 100,
+      "id": "9436bc0de52d1414",
+      "text": "---\ncssclasses: cc-card-center, cc-border-right, cc-card-fill, cc-card-gradient-0deg\n---\n\nFinancial\nanalvtics",
+      "type": "text",
+      "width": 185,
+      "x": -680,
+      "y": 80
+    },
+    {
+      "color": "#8e8585",
+      "height": 100,
+      "id": "da09c19a0ff00737",
+      "text": "---\ncssclasses: cc-card-center, cc-border-right, cc-card-fill, cc-card-gradient-0deg\n---\n\nMarketers",
+      "type": "text",
+      "width": 185,
+      "x": -680,
+      "y": 320
+    },
+    {
+      "color": "#a48be9",
+      "height": 100,
+      "id": "7fb005b70153d034",
+      "text": "---\ncssclasses: cc-card-center, cc-border-right, cc-card-fill, cc-card-gradient-0deg\n---\n\nBanks",
+      "type": "text",
+      "width": 185,
+      "x": -680,
+      "y": -120
+    },
+    {
+      "height": 100,
+      "id": "f0ed41bffa914444",
+      "text": "---\ncssclasses: cc-card-center, cc-border-none, cc-card-fill, cc-card-gradient-0deg, cc-border-rounded\n---\n\nSuppliers",
+      "type": "text",
+      "width": 220,
+      "x": 205,
+      "y": -80
+    },
+    {
+      "height": 100,
+      "id": "3755ae8c80afdbb7",
+      "text": "---\ncssclasses: cc-card-center, cc-border-left, cc-card-fill, cc-card-gradient-0deg\n---\n\nFederal",
+      "type": "text",
+      "width": 185,
+      "x": 520,
+      "y": -20
+    },
+    {
+      "height": 100,
+      "id": "4c89f37f5c49b4a0",
+      "text": "---\ncssclasses: cc-card-center, cc-border-left, cc-card-fill, cc-card-gradient-0deg\n---\n\nLocal",
+      "type": "text",
+      "width": 185,
+      "x": 520,
+      "y": -150
+    },
+    {
+      "color": "#b8b3d0",
+      "height": 100,
+      "id": "8b97d1020f046067",
+      "text": "---\ncssclasses: cc-card-center, cc-border-left, cc-card-fill, cc-card-gradient-0deg\n---\n\nBoard of Directors",
+      "type": "text",
+      "width": 185,
+      "x": 520,
+      "y": -430
+    },
+    {
+      "color": "#b8b3d0",
+      "height": 100,
+      "id": "1c7d3d688d250a12",
+      "text": "---\ncssclasses: cc-card-center, cc-border-none, cc-card-fill, cc-card-gradient-0deg, cc-border-rounded\n---\n\nManagement",
+      "type": "text",
+      "width": 220,
+      "x": 205,
+      "y": -360
+    },
+    {
+      "color": "#b8b3d0",
+      "height": 100,
+      "id": "2373a9d9d188aaea",
+      "text": "---\ncssclasses: cc-card-center, cc-border-left, cc-card-fill, cc-card-gradient-0deg\n---\n\nProduct Manager",
+      "type": "text",
+      "width": 185,
+      "x": 520,
+      "y": -300
+    },
+    {
+      "height": 110,
+      "id": "5919ea1d0289a6a0",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n# Stakeholder Mapping\n",
+      "type": "text",
+      "width": 621,
+      "x": -169,
+      "y": -540
+    },
+    {
+      "color": "#8fc5ff",
+      "height": 100,
+      "id": "5b0549f7d7c35b44",
+      "text": "---\ncssclasses: cc-card-center, cc-border-left, cc-card-fill, cc-card-gradient-0deg\n---\n\nValue Added",
+      "type": "text",
+      "width": 185,
+      "x": 520,
+      "y": 360
+    },
+    {
+      "color": "#8fc5ff",
+      "height": 100,
+      "id": "dc1ad567c0cebb82",
+      "text": "---\ncssclasses: cc-card-center, cc-border-left, cc-card-fill, cc-card-gradient-0deg\n---\n\nIndependent",
+      "type": "text",
+      "width": 185,
+      "x": 520,
+      "y": 240
+    },
+    {
+      "color": "#8fc5ff",
+      "height": 100,
+      "id": "e7f372ac0a3b2262",
+      "text": "---\ncssclasses: cc-card-center, cc-border-none, cc-card-fill, cc-card-gradient-0deg, cc-border-rounded\n---\n\nRetailers",
+      "type": "text",
+      "width": 220,
+      "x": 205,
+      "y": 240
+    },
+    {
+      "color": "#8fc5ff",
+      "height": 100,
+      "id": "ae60132bf90d73c7",
+      "text": "---\ncssclasses: cc-card-center, cc-border-left, cc-card-fill, cc-card-gradient-0deg\n---\n\nDirect",
+      "type": "text",
+      "width": 185,
+      "x": 520,
+      "y": 120
+    },
+    {
+      "color": "#8e8585",
+      "height": 100,
+      "id": "389adeb4d0e156ee",
+      "text": "---\ncssclasses: cc-card-center, cc-border-none, cc-card-fill, cc-card-gradient-0deg, cc-border-rounded\n---\n\nBusiness Consultants",
+      "type": "text",
+      "width": 220,
+      "x": -420,
+      "y": 200
+    },
+    {
+      "color": "#a48be9",
+      "height": 100,
+      "id": "ca293051aa6bed36",
+      "text": "---\ncssclasses: cc-card-center, cc-border-right, cc-card-fill, cc-card-gradient-0deg\n---\n\nShareholders",
+      "type": "text",
+      "width": 185,
+      "x": -680,
+      "y": -360
+    },
+    {
+      "color": "#a48be9",
+      "height": 100,
+      "id": "7a8c14f718a15da3",
+      "text": "---\ncssclasses: cc-card-center, cc-border-none, cc-card-fill, cc-card-gradient-0deg, cc-border-rounded\n---\n\nFinancial Institutions",
+      "type": "text",
+      "width": 220,
+      "x": -420,
+      "y": -240
+    },
+    {
+      "color": "1",
+      "height": 55,
+      "id": "1ddc88d682e90379",
+      "text": "---\ncssclasses: cc-border-none, cc-card-transparent\n---\n\n[Source of inspiration](https://miro.com/templates/stakeholder-map/)",
+      "type": "text",
+      "width": 253,
+      "x": 452,
+      "y": 520
+    }
+  ]
+}
